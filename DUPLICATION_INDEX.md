@@ -42,32 +42,32 @@ Track 001~060의 제목 핵심어, 상황, 관계 단계, Hook 문법, 장르, B
 | 030 | 다음 계절 전까지 | 다음 계절, 전까지 | 겨울 전까지 관계 결론 유예 | 오래된 관계 / Duet | 합의형 Duet·열린 Outro | Alternative Pop | 104 | Duet | GENERAL-MIX |
 | 031 | Shorter Hair | shorter hair | 헤어컷 후 자기 변화 | 솔로 | Title pickup + KR 생활 선언 | Pop Rock | 104 | Male | IDOL-KR |
 | 032 | Blurred Photo | blurred photo | 친구 단체사진 선택 | 친구 그룹 | 선명함/자연스러움 대비형 | Jangle Pop | 114 | Female | IDOL-MIX |
-| 033 | 대사 아닌 얘기 | 대사, 얘기 | 연극 연습 중 실제 대화 | 취미 지인 / Duet | 역할/실제 목소리 전환형 | Funk Pop | 108 | Duet | GENERAL-KR |
+| 033 | 대사 말고 얘기 | 대사, 얘기 | 연극 연습 중 실제 대화 | 취미 지인 / Duet | 입말 전환형·실제 말투 발견 | Funk Pop | 108 | Duet | GENERAL-KR |
 | 034 | 간을 보다가 | 간, 보다가 | 남매가 기억으로 요리 | 성인 남매 | 행동 중 동시 반응형 | Organic Pop | 100 | Female | GENERAL-KR |
 | 035 | Catch the Count | catch, count | 초급 댄스 수업 실수 | 솔로/수업 그룹 | 영어 순환·리듬형 | Disco Pop | 120 | Male | IDOL-FULL-ENGLISH |
 | 036 | 식지 않은 저녁 | 식지 않은, 저녁 | 늦은 근무 뒤 남겨 둔 식사 | 안정된 연인 | 행동 증거형 Refrain | Modern Soul | 100 | Female | GENERAL-KR |
-| 037 | 떨린 목소리로 | 떨린, 목소리 | 업무 발표 완주 | 직장인 / 솔로 | 진행에 따라 변화하는 성장형 | Piano Pop | 108 | Male | GENERAL-KR |
+| 037 | 떨린 목소리로 | 떨린, 목소리 | 업무 발표 완주 | 직장인 / 솔로 | 첫 문장 압축형 | Piano Pop | 108 | Male | GENERAL-KR |
 | 038 | 손에 흙이 묻은 채 | 흙, 묻은 채 | 도예 수업의 첫 긴 대화 | 새로운 관심 / Duet | 구체 행동+어색함 관찰형 | Dream Pop | 102 | Duet | GENERAL-KR |
-| 039 | Strike or Smile | strike, smile | 친구 볼링 | 친구 그룹 | 점수/반응 대비 chant | Dance Pop | 122 | Female | IDOL-MIX |
+| 039 | Strike or Smile | strike, smile | 여성 친구 그룹 볼링 | 친구 그룹 | 점수/반응 대비 chant | Dance Pop | 122 | Female | IDOL-MIX |
 | 040 | 아버지의 그 농담 | 아버지, 농담 | 반복되는 가족 농담 | 성인 자녀/아버지 | 결말을 아는 반복형 | Folk Soul | 104 | Male | GENERAL-KR |
 | 041 | Rooftop Lunch | rooftop, lunch | 평일 업무 중 옥상 점심 | 직장인 / 솔로 | Title pickup + 공간 분리형 | Indie Rock | 112 | Female | GENERAL-MIX |
 | 042 | 서로 다른 달력 | 서로 다른, 달력 | 안정된 연인의 일정 조율 | 안정된 연인 / Duet | 교차 일정 call-response | Piano Pop | 94 | Duet | GENERAL-KR |
-| 043 | 이름만 말해보기 | 이름, 말해보기 | 직업 없이 자기소개 | 솔로/수강생 | 역할 제거 선언형 | Alternative Soul | 106 | Male | GENERAL-KR |
+| 043 | 그냥 내 이름 | 이름 | 직업 없이 자기소개 | 솔로/수강생 | 어색함 관찰형 | Alternative Soul | 106 | Male | GENERAL-KR |
 | 044 | 그때 그 별명 | 그때, 별명 | 동창 모임 집단 기억 | 옛 친구 그룹 | 시간 점프 + punchline | Jangle Pop | 118 | Female | GENERAL-KR |
-| 045 | 서로의 플레이리스트 | 플레이리스트 | 호감 전 취향 교환 | 친구→호감 전 | 구체 숫자 관찰형 | Contemporary R&B | 100 | Male | GENERAL-KR |
-| 046 | Backspin | backspin | 탁구 랠리 | 친구/취미 팀 | 영어 스포츠 response형 | Funk Pop | 120 | Female | IDOL-ENG-FORWARD |
-| 047 | Shy Paws | shy paws | 보호소 동물 신뢰 | 봉사자/낯선 동물 | 기다림 뒤 접근 관찰형 | Acoustic Soul | 100 | Male | GENERAL-MIX |
+| 045 | 서로의 플레이리스트 | 플레이리스트 | 오래된 친구의 새 취향 발견 | 오래된 친구 | 구체 숫자+새 면 발견형 | Contemporary R&B | 100 | Male | GENERAL-KR |
+| 046 | Backspin | backspin | 복식 파트너와 탁구 랠리 | 친구/복식 파트너 | 영어 주고받기 response형 | Funk Pop | 120 | Male | IDOL-ENG-FORWARD |
+| 047 | 한 뼘 가까이 | 한 뼘, 가까이 | 보호소 동물 신뢰 | 봉사자/낯선 동물 | 거리 변화 관찰형 | Acoustic Soul | 100 | Male | GENERAL-KR |
 | 048 | 박수 타이밍 | 박수, 타이밍 | 조카 발표회 응원 | 이모·삼촌/조카 | 실수+응원 반전형 | Brass Pop | 116 | Female | GENERAL-KR |
 | 049 | Missed the Movie | missed, movie | 영화 놓친 친구 대화 | 친구 그룹 | 영어 실패/획득 대비형 | Electropop | 124 | Male | IDOL-FULL-ENGLISH |
-| 050 | 이번엔 야근 안 합니다 | 야근, 안 합니다 | 정시 퇴근 경계 설정 | 직장인 / 솔로 | 업무 문장형 slogan | Soft Rock | 108 | Female | GENERAL-KR |
-| 051 | 선생님, 오랜만이에요 | 선생님, 오랜만 | 옛 선생님과 재회 | 옛 제자/선생님 | 직접 호칭 대화형 | Folk Soul | 98 | Male | GENERAL-KR |
+| 050 | 오늘은 먼저 갈게요 | 오늘, 먼저 갈게요 | 정시 퇴근 경계 설정 | 직장인 / 솔로 | 행동 선언형 입말 Hook | Soft Rock | 108 | Female | GENERAL-KR |
+| 051 | 선생님, 오랜만이에요 | 선생님, 오랜만 | 옛 선생님과 재회 | 옛 제자/선생님 | 구체 기억 직접 호칭형 | Folk Soul | 98 | Male | GENERAL-KR |
 | 052 | 잘 지냈어, 정말 | 잘 지냈어, 정말 | 전 연인과 담백한 안부 | 이별 이후 / Duet | 짧은 인사 + 의미 변화형 | Adult Contemporary Pop | 90 | Duet | GENERAL-KR |
 | 053 | 엄마는 눈대중 | 엄마, 눈대중 | 늦가을 음식 준비 | 성인 자녀/어머니 | 세대 방식 대비형 | Bossa Pop | 106 | Female | GENERAL-KR |
 | 054 | No Cue Needed | no cue, needed | 동아리 행사 사고 수습 | 친구·동아리 그룹 | 영어 title + KR teamwork hook | Rhythm Pop | 120 | Male | IDOL-KR |
 | 055 | 직급을 빼고 | 직급, 빼고 | 프로젝트 뒤 팀 식사 | 직장 동료 그룹 | 호칭 변화 관찰형 | Funk Pop | 112 | Female | GENERAL-KR |
-| 056 | One Song Only | one song, only | 행사에서 한 곡 춤 | 새로운 관심 / Duet | 영어 조건형 + 관계 질문 | Vocal Pop | 118 | Duet | IDOL-ENG-FORWARD |
-| 057 | 왼손부터 다시 | 왼손, 다시 | 피아노 취미 복귀 | 솔로 | 좌/우 대구형 | Bedroom Pop | 102 | Male | GENERAL-KR |
-| 058 | 축하말을 고치다가 | 축하말, 고치다가 | 부모 퇴직 축하말 준비 | 성인 남매 / Duet | 다름/같음 병렬형 | Piano Soul Pop | 104 | Duet | GENERAL-KR |
+| 056 | One Song Only | one song, only | 한 곡 춤추며 이름을 알게 됨 | 새로운 관심 / Duet | 영어 시간제한+행동 발견형 | Vocal Pop | 118 | Duet | IDOL-ENG-FORWARD |
+| 057 | 왼손부터 다시 | 왼손, 다시 | 피아노 취미 복귀 | 솔로 | 신체 기억 압축형 | Bedroom Pop | 102 | Female | GENERAL-KR |
+| 058 | 두 장의 인사말 | 두 장, 인사말 | 부모 퇴직 인사말 준비 | 성인 남매 / Duet | 따로/같이 병렬형 | Piano Soul Pop | 104 | Duet | GENERAL-KR |
 | 059 | 낯선 잠버릇 | 낯선, 잠버릇 | 처음 조카 돌봄 | 이모·삼촌/조카 | 관찰 후 긴장 해소형 | Acoustic Pop | 96 | Female | GENERAL-KR |
 | 060 | Your Pace | your pace | 노령 반려견 산책 | 오래된 반려 관계 | 영어 pickup + 속도 전환형 | Folk Pop | 104 | Male | GENERAL-MIX |
 
@@ -109,11 +109,12 @@ Batch 02에서는 위 장르의 연속·집중 사용을 피하고 Jangle Pop, O
 
 ## 3. Track 031~060 내부 중복 위험 검토
 
-- 활동형 035 / 039 / 046은 댄스 수업 / 볼링 / 탁구로 구분하고 Hook을 `카운트 회복 / 점수 대비 / 랠리 유지`로 분리했습니다.
+- 활동형 035 / 039 / 046은 댄스 수업 / 여성 친구 그룹 볼링 / 남성 복식 파트너 탁구로 구분하고 Hook을 `카운트 회복 / 점수 대비 / 랠리 주고받기`로 분리했습니다.
 - 가족형 034 / 040 / 048 / 051 / 053 / 058 / 059는 남매 / 아버지 / 조카 / 옛 선생님 / 어머니 / 부모 퇴직 / 조카 돌봄으로 관계를 분산했습니다.
 - 동물형 047 / 060은 `처음 형성되는 보호소 신뢰`와 `오래된 반려견의 노화에 맞추는 동행`으로 관계 방향을 반대로 설계했습니다.
 - 듀엣 033 / 038 / 042 / 052 / 056 / 058은 취미 지인 / 새로운 관심 / 안정된 연인 / 이별 이후 / 새로운 관심 / 남매로 분리했습니다.
-- 직장형 037 / 041 / 043 / 050 / 055는 발표 / 짧은 점심 회복 / 직업 없는 자기소개 / 야근 경계 / 팀 위계 완화로 행동을 분리했습니다.
+- 045는 013의 취향 기반 초기 로맨스와 겹치지 않도록 오래된 친구 사이의 새 면 발견으로 변경했습니다.
+- 직장형 037 / 041 / 043 / 050 / 055는 발표 / 짧은 점심 회복 / 직업 없는 자기소개 / 정시 퇴근 / 팀 위계 완화로 행동을 분리했습니다.
 - 동일 Primary Genre, 동일 Vocal 유형, 동일 Structure를 연속 배치하지 않았습니다.
 - 인접 BPM 차이는 최대 20 BPM으로 유지했습니다.
 
@@ -122,9 +123,10 @@ Batch 02에서는 위 장르의 연속·집중 사용을 피하고 Jangle Pop, O
 - 041 `Rooftop Lunch` ↔ 007/026: 주말·하루 단위 회복이 아니라 평일 업무 중 20분짜리 회복.
 - 042 `서로 다른 달력` ↔ 030: 관계 결론 유예가 아니라 이미 안정된 연인의 일정 조율.
 - 044 `그때 그 별명` ↔ 012: 연락처를 통한 재접촉이 아니라 동창 모임 안의 집단 기억.
+- 045 `서로의 플레이리스트` ↔ 013: 연인 초기 취향 대화가 아니라 오래된 친구에게서 몰랐던 면을 발견하는 우정.
 - 052 `잘 지냈어, 정말` ↔ 019/021/028: 미련·정리 과정이 아니라 감정 정리 이후의 짧은 현재형 안부.
 - 055 `직급을 빼고` ↔ 027: 두 동료의 친밀감 변화가 아니라 팀 전체의 비로맨스 공동체 변화.
-- 056 `One Song Only` ↔ 022: 관계를 늦추는 합의가 아니라 짧은 공동 행동 뒤 호감이 선명해지는 방향.
+- 056 `One Song Only` ↔ 022: 관계를 늦추는 합의가 아니라 한 곡 안에서 이름을 알게 되는 구체 행동형 호감.
 - 057 `왼손부터 다시` ↔ 017/028: 감정·물리 정리가 아니라 중단했던 취미의 신체 기억 회복.
 - 060 `Your Pace` ↔ 010/015/027: 이동 경로가 아니라 노령 반려견의 속도에 맞추는 돌봄 행동.
 
@@ -160,7 +162,7 @@ Batch 02 신규 제목의 중심어는 Batch 01 제목 중심어와 직접 반�
 ## 7. Batch 02 장르·BPM·보컬·언어 QA
 
 - Vocal: Female 12 / Male 12 / Duet 6
-- General Language: GENERAL-KR 19 / GENERAL-MIX 3
+- General Language: GENERAL-KR 20 / GENERAL-MIX 2
 - Idol Language: IDOL-KR 2 / IDOL-MIX 2 / IDOL-ENG-FORWARD 2 / IDOL-FULL-ENGLISH 2
 - 아이돌 8곡의 동일 `Language Mode + Idol Style` 조합은 반복하지 않도록 분산했습니다.
 - BPM 범위: 90~124
@@ -169,17 +171,28 @@ Batch 02 신규 제목의 중심어는 Batch 01 제목 중심어와 직접 반�
 - 같은 Vocal 유형 연속: 없음
 - 같은 Structure 연속: 없음
 
-## 8. 누적 QA 상태
+## 8. 승인 전 2차 수정 기록 — 2026-09-03
 
-현재 단계: `BATCH_02_INITIAL_PLANNING_REVIEW`
+- 수정 대상: 032, 033, 037, 043, 045, 046, 047, 049, 050, 051, 056, 057, 058
+- 제목 수정: 033 `대사 말고 얘기`, 043 `그냥 내 이름`, 047 `한 뼘 가까이`, 050 `오늘은 먼저 갈게요`, 058 `두 장의 인사말`
+- Hook 압축/교체: 033, 037, 043, 045, 046, 047, 049, 050, 051, 056, 057, 058
+- 스타일 정합성 수정: 032 Idol Style → `Guitar Pop / Fresh K-Pop`
+- 내부 중복 수정: 046 Male 복식 파트너형, 057 Female로 조정해 Vocal 12/12/6 유지
+- 관계 중복 수정: 045 오래된 우정으로 변경, 056 관계 정의 대화 제거
+- 상태: 전곡 `PLANNED`, 실제 가사 `NOT_STARTED`
+
+## 9. 누적 QA 상태
+
+현재 단계: `BATCH_02_REVISED_PLANNING_REVIEW`
 
 - [x] Track 001~060 제목 핵심어 누적
 - [x] Track 001~060 상황·관계 단계 누적
 - [x] Track 001~060 Hook 문법 누적
 - [x] Track 001~060 장르·BPM·보컬·언어 누적
-- [x] Batch 02 내부 중복 1차 검토
-- [x] Batch 01 ↔ Batch 02 교차 중복 1차 검토
+- [x] Batch 02 내부 중복 2차 검토
+- [x] Batch 01 ↔ Batch 02 교차 중복 2차 검토
 - [x] 과거 여름 프로젝트 회피어 유지 확인
+- [x] 승인 전 수정 권장 13곡 반영
 - [ ] 사용자 Decision Gate 승인
 - [ ] 작사 후 실제 Hook 리듬 재검토
 - [ ] Style Prompt 문구 중복 검토
