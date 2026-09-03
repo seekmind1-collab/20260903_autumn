@@ -10,7 +10,7 @@
 |---|---:|---|---|---|
 | 01 | 001~030 | `MASTER_BOARD.md` | PLANNED | NOT_STARTED |
 | 02 | 031~060 | `MASTER_BOARD_031_060.md` | PLANNED | NOT_STARTED |
-| 03 | 061~090 | `MASTER_BOARD_061_090.md` | NOT_CREATED | NOT_STARTED |
+| 03 | 061~090 | `MASTER_BOARD_061_090.md` | PLANNED | NOT_STARTED |
 | 04 | 091~100 | `MASTER_BOARD_091_100.md` | NOT_CREATED | NOT_STARTED |
 
 ## 운영 규칙
@@ -27,16 +27,17 @@
 
 ## 현재 상태
 
-- 기획 완료 범위: Track 001~060
+- 기획 완료 범위: Track 001~090
 - 실제 가사 작성 범위: 없음
 - Track 031~060 상태: 전곡 `PLANNED`
+- Track 061~090 상태: 전곡 `PLANNED`
 - 사용자 Decision Gate 승인: 대기 중
 
 ## 다음 작업
 
 다음 새로운 기획 세션의 기본 범위:
 
-- Track 061~090
-- 생성 파일: `MASTER_BOARD_061_090.md`
-- 기존 Track 001~060과의 중복 검토 필수
+- Track 091~100
+- 생성 파일: `MASTER_BOARD_091_100.md`
+- 기존 Track 001~090과의 중복 검토 필수
 - 실제 가사 작성 금지
