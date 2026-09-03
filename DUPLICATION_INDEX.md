@@ -1,8 +1,8 @@
-# DUPLICATION INDEX — 2026 AUTUMN 60 TRACKS
+# DUPLICATION INDEX — 2026 AUTUMN 90 TRACKS
 
 ## 목적
 
-Track 001~060의 제목 핵심어, 상황, 관계 단계, Hook 문법, 장르, BPM, 보컬, 언어 배치를 누적 추적합니다.
+Track 001~090의 제목 핵심어, 상황, 관계 단계, Hook 문법, 장르, BPM, 보컬, 언어 배치를 누적 추적합니다.
 
 실제 작사 세션에서는 과거 전체 가사를 다시 읽지 않고 이 파일, 대상 Track의 MASTER BOARD 행, 공통 규칙을 중심으로 중복을 방지합니다.
 
@@ -70,71 +70,166 @@ Track 001~060의 제목 핵심어, 상황, 관계 단계, Hook 문법, 장르, B
 | 058 | 두 장의 인사말 | 두 장, 인사말 | 부모 퇴직 인사말 준비 | 성인 남매 / Duet | 따로/같이 병렬형 | Piano Soul Pop | 104 | Duet | GENERAL-KR |
 | 059 | 낯선 잠버릇 | 낯선, 잠버릇 | 처음 조카 돌봄 | 이모·삼촌/조카 | 관찰 후 긴장 해소형 | Acoustic Pop | 96 | Female | GENERAL-KR |
 | 060 | Your Pace | your pace | 노령 반려견 산책 | 오래된 반려 관계 | 영어 pickup + 속도 전환형 | Folk Pop | 104 | Male | GENERAL-MIX |
+| 061 | 박스를 덜 푼 채 | 박스, 덜 푼 채 | 새집 첫날 미완성 정착 | 새 생활 / 솔로 | 미완성 상태 수용형 | Sophisti-Pop | 108 | Female | GENERAL-KR |
+| 062 | 뒤집어 둔 화면 | 화면, 뒤집어 둔 | 친구 식사 중 휴대폰 뒤집기 | 오래된 친구 그룹 | 결과 관찰형 | Contemporary R&B | 116 | Male | IDOL-KR |
+| 063 | 정전 동안 | 정전, 동안 | 계획 정전 중 이웃 대화 | 이웃 주민 | 불편→연결 원인형 | Chamber Pop | 100 | Female | GENERAL-KR |
+| 064 | 침묵도 익숙하게 | 침묵, 익숙하게 | 각자 독서하는 오래된 연인 | 안정된 연인 / Duet | 무대화하지 않는 침묵형 | Dream Pop | 94 | Duet | GENERAL-KR |
+| 065 | 청소표 첫 주 | 청소표, 첫 주 | 새 룸메이트 생활 규칙 | 공동생활 초기 | 공통점 발견형 | New Wave Pop | 106 | Male | GENERAL-KR |
+| 066 | 힌트 없이 | 힌트, 없이 | 방 탈출 협업 | 친구 그룹 | 단서 이어받기형 | Nu-Disco Pop | 120 | Female | IDOL-MIX |
+| 067 | 서류 끝의 서명 | 서류, 서명 | 할아버지 행정 업무 동행 | 성인 손자/할아버지 | 개입 중단 행동형 | Adult Contemporary Pop | 112 | Male | GENERAL-KR |
+| 068 | 발음이 달라도 | 발음, 달라도 | 언어교환의 실수 | 학습 파트너 / Duet | 실수→이해 반전형 | Latin Pop | 98 | Duet | GENERAL-MIX |
+| 069 | Not on the List | list, not | 공동정원 늦가을 정비 | 새 주민/지역 공동체 | 배제 표지→참여 전환형 | Downtempo Pop | 90 | Female | IDOL-FULL-ENGLISH |
+| 070 | 숨기지 않은 실수 | 숨기지, 실수 | 업무 오류 자진 공개 | 직장인/프로젝트 팀 | 선제 공개→해결형 | Adult Alternative | 104 | Male | GENERAL-KR |
+| 071 | 모르는 축하객들 | 모르는, 축하객 | 결혼식 낯선 하객 테이블 | 낯선 하객 그룹 | 서로 다른 기억 병렬형 | Ska Pop | 118 | Female | GENERAL-KR |
+| 072 | 각자 좋아해도 | 각자, 좋아해도 | 연인의 독립 취미 지지 | 안정된 연인 | 자율성 인정형 | Modern Soul | 110 | Male | GENERAL-KR |
+| 073 | Off Script, On Air | off script, on air | 커뮤니티 라디오 즉흥 진행 | 방송 파트너 / Duet | 말 이어받기 response형 | Afro Pop | 96 | Duet | IDOL-ENG-FORWARD |
+| 074 | 요즘의 우리 | 요즘, 우리 | 오래된 친구의 현재 근황 | 오래된 친구 | 현재형 병렬 누적 | Jazz Pop | 108 | Female | GENERAL-KR |
+| 075 | 한 권의 추천 | 한 권, 추천 | 사서의 낯선 분야 추천 | 단골 이용자/사서 | 직접 호칭→호기심형 | Britpop | 122 | Male | GENERAL-KR |
+| 076 | 두 번째 초안 | 두 번째, 초안 | 글 다시 쓰기 | 창작 중 솔로 | 재작성→자기 말투 회복형 | Bedroom Pop | 106 | Female | GENERAL-KR |
+| 077 | 다 맞춘 줄 알았는데 | 다 맞춘 줄, 알았는데 | 말다툼 뒤 공동 조립 실수 | 안정된 연인 / Duet | 예상 실패→공동 웃음형 | Acoustic Jazz Pop | 92 | Duet | GENERAL-MIX |
+| 078 | 네가 다 해냈더라 | 다 해냈더라 | 동생 첫 아르바이트 | 형제자매 | 비개입 응원형 | Power Pop | 102 | Male | IDOL-KR |
+| 079 | 가만히 있어야 보였어 | 가만히, 보였어 | 시민 조류 관찰 | 초보 참여자/지역 모임 | 역설적 관찰형 | Indie Rock | 116 | Female | GENERAL-KR |
+| 080 | 대화가 자꾸 끊겨도 | 대화, 끊겨도 | 육아 친구와 끊기는 점심 대화 | 오래된 친구 | 끊김→재개형 | Soul Pop | 100 | Male | GENERAL-KR |
+| 081 | 내가 설명할 차례 | 설명, 차례 | 후배의 내부 도구 시연 | 주니어/멘토 | 역할 교대 선언형 | Jersey Club Pop | 120 | Female | IDOL-MIX |
+| 082 | 긴장도 반씩 | 긴장, 반씩 | 양가 첫 인사 뒤 연인 대화 | 결혼 전 연인 / Duet | 감정 분담형 | Bossa Pop | 108 | Duet | GENERAL-KR |
+| 083 | 이제는 참가자로 | 참가자, 이제 | 지역 모임 역할 내려놓기 | 전임 진행자/공동체 | 역할 전환 관찰형 | Chill Folk | 94 | Male | GENERAL-KR |
+| 084 | 내 파트를 줄이면 | 파트, 줄이면 | 합창에서 다른 파트 듣기 | 합창 구성원 | 자기 볼륨 축소→합 발견형 | Gospel Pop | 104 | Female | GENERAL-KR |
+| 085 | No Perfect Table | perfect table | 새 이웃 포틀럭 식사 | 새 이웃 공동체 | 불완전함 수용형 영어 refrain | Indie Dance | 120 | Male | IDOL-FULL-ENGLISH |
+| 086 | 자막을 크게 | 자막, 크게 | 할머니 드라마 자막 확대 | 손녀/할머니 / Duet | 도움 교환형 | Contemporary Folk | 110 | Duet | GENERAL-KR |
+| 087 | 예산부터 솔직하게 | 예산, 솔직하게 | 친구에게 빠듯한 예산 공개 | 오래된 친구 | 현실 고백→약속 단순화형 | Acoustic Soul | 96 | Male | GENERAL-KR |
+| 088 | 아무것도 틀지 않고 | 아무것도, 틀지 않고 | 이어폰 없이 귀가 | 솔로 | 입력 제거→감각 발견형 | Easy Pop | 106 | Female | GENERAL-KR |
+| 089 | Lobby Across Cities | lobby, cities | 장거리 친구 협동 게임 | 오래된 친구 그룹 | 영어 거리/익숙함 병렬형 | Alternative Dance | 118 | Male | IDOL-ENG-FORWARD |
+| 090 | 부탁 하나 맡겨 둘게 | 부탁, 맡겨 둘게 | 이웃의 집 돌봄 부탁 | 오래된 이웃 / Duet | 사물보다 행동 설명 강조형 | Americana Pop | 102 | Duet | GENERAL-MIX |
 
-## 2. Track 001~030에서 이미 밀집된 축
+## 2. Track 001~060 누적 밀집 축
 
-### 제목 핵심어
+### 제목 핵심어·문법
 
 - 시간 표지: `아홉 시`, `Half Past Four`, `Late Afternoon`
 - 주말: `주말`, `Sunday`, `Weekend`
 - 공간/자리: `Corner Seat`, `Seventh Floor`, `Room for Two`, `빈 의자`
 - 이동: `퇴근길`, `돌아가는 길`, `같은 방향`
-- 관계 정리 문법: `늦게 온 대답`, `묻지 않을게`, `두고 간 말`, `다음 계절 전까지`
+- 연락·관계 정리: `대답`, `번호`, `Call`, `Signal`, `묻지 않을게`, `두고 간 말`, `전까지`
+- Batch 02에서 증가한 행동·역할형: `대사/얘기`, `이름`, `별명`, `직급`, `타이밍`, `다시`, `인사말`
 
 ### 상황·관계
 
-- 계절의 물리적 변화 / 솔로 감각: 001, 003, 010, 011, 025
-- 자기 정리 / 회복: 004, 007, 017, 018, 026, 028
-- 새로운 관심 / 가벼운 관계 변화: 005, 008, 013, 022, 027
-- 연락 / 대화 / 관계 재조정: 006, 012, 016, 019, 021, 024, 030
-- 친구 / 지역 / 공동체: 009, 020, 023, 029
-- 데이트 후 감정 정리: 015
-- 즉흥 약속 / 활동성: 014
+- Batch 01: 계절 물리 감각, 자기 정리·회복, 연락/대화에 의한 관계 재조정이 밀집.
+- Batch 02: 가족 행동, 직장 장면, 취미 수업·스포츠·그룹 활동이 크게 증가.
+- 따라서 Batch 03에서는 가족 3곡, 직장 2곡, 로맨스 중심 4곡으로 낮추고 공동주거·이웃·지역 공동체·생활 단계 변화·역할 전환을 확대함.
 
-### 장르
+### Hook 문법
 
-Batch 01에서 2회 이상 사용된 Primary Genre:
-- Indie Pop 3
-- City Pop 3
-- Alternative R&B 3
-- Synth Pop 3
-- Alternative Pop 3
-- Acoustic Pop 2
-- Pop Rock 2
-- Groove Pop 2
-- Folk Pop 2
-- Rhythm Pop 2
+Track 001~060에서 반복 비중이 높았던 문법:
+- 긴 대화문형·입말 선언형
+- `A보다 B` 또는 실패/획득 대비형
+- Title pickup + Post-Chorus
+- 질문·합의형 관계 Hook
+- 행동 선언형 Refrain
 
-Batch 02에서는 위 장르의 연속·집중 사용을 피하고 Jangle Pop, Organic Pop, Disco Pop, Modern Soul, Piano Pop, Dream Pop, Dance Pop, Folk Soul, Indie Rock, Alternative Soul, Contemporary R&B, Acoustic Soul, Brass Pop, Electropop, Adult Contemporary Pop, Bossa Pop, Bedroom Pop, Piano Soul Pop 등으로 분산했습니다.
+Batch 03에서는 미완성 상태 수용, 원인-결과 관찰, 끊김-재개, 역할 교대, 감정 분담, 입력 제거, 상호 도움 교환형으로 분산함.
 
-## 3. Track 031~060 내부 중복 위험 검토
+### Primary Genre
 
-- 활동형 035 / 039 / 046은 댄스 수업 / 여성 친구 그룹 볼링 / 남성 복식 파트너 탁구로 구분하고 Hook을 `카운트 회복 / 점수 대비 / 랠리 주고받기`로 분리했습니다.
-- 가족형 034 / 040 / 048 / 051 / 053 / 058 / 059는 남매 / 아버지 / 조카 / 옛 선생님 / 어머니 / 부모 퇴직 / 조카 돌봄으로 관계를 분산했습니다.
-- 동물형 047 / 060은 `처음 형성되는 보호소 신뢰`와 `오래된 반려견의 노화에 맞추는 동행`으로 관계 방향을 반대로 설계했습니다.
-- 듀엣 033 / 038 / 042 / 052 / 056 / 058은 취미 지인 / 새로운 관심 / 안정된 연인 / 이별 이후 / 새로운 관심 / 남매로 분리했습니다.
-- 045는 013의 취향 기반 초기 로맨스와 겹치지 않도록 오래된 친구 사이의 새 면 발견으로 변경했습니다.
-- 직장형 037 / 041 / 043 / 050 / 055는 발표 / 짧은 점심 회복 / 직업 없는 자기소개 / 정시 퇴근 / 팀 위계 완화로 행동을 분리했습니다.
-- 동일 Primary Genre, 동일 Vocal 유형, 동일 Structure를 연속 배치하지 않았습니다.
-- 인접 BPM 차이는 최대 20 BPM으로 유지했습니다.
+Track 001~060에서 3회 사용된 Primary Genre:
+- Indie Pop
+- City Pop
+- Alternative R&B
+- Acoustic Pop
+- Synth Pop
+- Pop Rock
+- Alternative Pop
+- Folk Pop
+- Rhythm Pop
+- Funk Pop
 
-## 4. Track 001~030 ↔ 031~060 교차 검토
+Batch 03에서는 위 3회 사용군을 신규 Primary Genre로 추가 사용하지 않음.
 
-- 041 `Rooftop Lunch` ↔ 007/026: 주말·하루 단위 회복이 아니라 평일 업무 중 20분짜리 회복.
-- 042 `서로 다른 달력` ↔ 030: 관계 결론 유예가 아니라 이미 안정된 연인의 일정 조율.
-- 044 `그때 그 별명` ↔ 012: 연락처를 통한 재접촉이 아니라 동창 모임 안의 집단 기억.
-- 045 `서로의 플레이리스트` ↔ 013: 연인 초기 취향 대화가 아니라 오래된 친구에게서 몰랐던 면을 발견하는 우정.
-- 052 `잘 지냈어, 정말` ↔ 019/021/028: 미련·정리 과정이 아니라 감정 정리 이후의 짧은 현재형 안부.
-- 055 `직급을 빼고` ↔ 027: 두 동료의 친밀감 변화가 아니라 팀 전체의 비로맨스 공동체 변화.
-- 056 `One Song Only` ↔ 022: 관계를 늦추는 합의가 아니라 한 곡 안에서 이름을 알게 되는 구체 행동형 호감.
-- 057 `왼손부터 다시` ↔ 017/028: 감정·물리 정리가 아니라 중단했던 취미의 신체 기억 회복.
-- 060 `Your Pace` ↔ 010/015/027: 이동 경로가 아니라 노령 반려견의 속도에 맞추는 돌봄 행동.
+### BPM
 
-## 5. 제목 핵심어 교차 검토
+Track 001~060 누적:
+- 84~96: 8곡
+- 97~106: 22곡
+- 107~116: 17곡
+- 117~126: 13곡
 
-Batch 02 신규 제목의 중심어는 Batch 01 제목 중심어와 직접 반복하지 않습니다.
+개별 BPM 고빈도:
+- 100: 6회
+- 104: 6회
+- 108: 5회
+- 120: 5회
 
-특히 Batch 01에서 반복 축이 된 아래 단어군을 Batch 02 제목 중심어에서 피했습니다.
+Batch 03은 배열 안정성을 유지하면서 90~122 범위에서 구간을 교차 배치함.
+
+## 3. Track 061~090 Batch 03 내부 QA
+
+### 1차 분류
+
+- 그대로 사용 가능: 061, 063, 065, 067, 070, 073, 075, 076, 078, 079, 080, 082, 083, 085, 086, 088
+- 소폭 수정 권장: 062, 064, 066, 068, 072, 074, 077, 081, 084, 087, 089
+- 강하게 수정 권장: 069, 071, 090
+
+### 수정 반영
+
+- 062: 명령형 Hook을 관찰형으로 전환하고 IDOL-KR 영어 배치 축소.
+- 064: 기존 제목 핵심어 `사이` 반복 제거.
+- 066: 스포츠/승리형 활동 중복을 피하고 협업 추론으로 초점 이동, 한국어 제목 전환.
+- 068: 기존 `서로` 제목 반복 제거, 비로맨스 학습 파트너 명확화.
+- 069: 085와 겹치던 이웃 식사 구상을 공동정원 늦가을 정비로 전면 교체.
+- 071: 상품 중심으로 흐를 수 있던 중고거래 구상을 낯선 결혼식 하객 관계로 전면 교체.
+- 072: `같이/같은` 제목 축 회피.
+- 074: 과거 회상보다 현재 근황 병렬 Hook으로 고정.
+- 077: 생활용품을 핵심 주제로 만들지 않고 관계 긴장 해소 장면으로 제한.
+- 081: 아이돌 영어 제목 편중을 낮추고 멘토-주니어 역할 교대를 핵심으로 조정.
+- 084: 037의 `목소리` 제목 핵심어 중복 제거.
+- 087: 033의 `얘기` 제목 핵심어 중복 제거.
+- 089: 027의 `같은`과 겹치던 Same 제목 문법 제거.
+- 090: 061과 겹치던 이사·주거 전환 구상을 장기 이웃의 집 돌봄 신뢰로 전면 교체.
+
+### 최종 재검토 결과
+
+Track 061~090 전곡 최종 분류: `그대로 사용 가능`.
+
+- 같은 Primary Genre 연속: 없음
+- 같은 Vocal 연속: 없음
+- 같은 Structure 연속: 없음
+- 같은 BPM 구간 3곡 연속: 없음
+- 인접 BPM 차이: 최대 20 BPM
+- Track 060(104) → Track 061(108): 4 BPM
+- Batch 03 Vocal: Female 11 / Male 12 / Duet 7
+- Batch 03 General Language: GENERAL-KR 19 / GENERAL-MIX 3
+- Batch 03 Idol Language: IDOL-KR 2 / IDOL-MIX 2 / IDOL-ENG-FORWARD 2 / IDOL-FULL-ENGLISH 2
+- Batch 03 아이돌 제목: 한국어 4 / 영어 4
+- Batch 03 Idol Style: 8곡 모두 서로 다른 세부 조합
+- Batch 03 BPM: 84~96 6곡 / 97~106 10곡 / 107~116 8곡 / 117~126 6곡
+
+## 4. Track 001~090 누적 분포
+
+### Vocal
+
+- Female: 36
+- Male: 36
+- Duet: 18
+
+### Language Mode
+
+- GENERAL-KR: 55
+- GENERAL-MIX: 12
+- IDOL-KR: 5
+- IDOL-MIX: 5
+- IDOL-ENG-FORWARD: 7
+- IDOL-FULL-ENGLISH: 6
+
+### BPM
+
+- 84~96: 14곡
+- 97~106: 32곡
+- 107~116: 25곡
+- 117~126: 19곡
+
+## 5. 제목·상황 교차 회피 유지
+
+Batch 03 신규 제목의 중심어로 아래 기존 밀집 축을 재사용하지 않음.
 
 - `길 / 방향`
 - `자리 / seat / room / floor`
@@ -142,11 +237,12 @@ Batch 02 신규 제목의 중심어는 Batch 01 제목 중심어와 직접 반�
 - `공기 / cold / morning`
 - `전화 / call / signal / 대답`
 - `정리 / letter`
-- `전 / 뒤 / 전까지` 같은 시간 조건형 제목 문법
+- `전 / 뒤 / 전까지` 시간 조건형 문법
+- Batch 02의 `목소리 / 얘기 / 이름 / 별명 / 플레이리스트 / 타이밍`을 신규 제목 중심어로 반복하지 않음
 
 ## 6. 과거 20260722_summer 교차 회피 유지
 
-기존 인덱스에서 정한 아래 핵심어는 Batch 02 제목에서도 사용하지 않습니다.
+아래 핵심어는 Track 061~090 제목에서도 사용하지 않음.
 
 - `Window`
 - `Fast Reply`
@@ -157,42 +253,20 @@ Batch 02 신규 제목의 중심어는 Batch 01 제목 중심어와 직접 반�
 - `출발`
 - `마지막`
 
-대중교통에서 우연히 만나는 관계 장면도 Batch 02 핵심 상황으로 사용하지 않았습니다.
+대중교통에서 우연히 만나는 관계 장면도 Batch 03 핵심 상황으로 사용하지 않음.
 
-## 7. Batch 02 장르·BPM·보컬·언어 QA
+## 7. 누적 QA 상태
 
-- Vocal: Female 12 / Male 12 / Duet 6
-- General Language: GENERAL-KR 20 / GENERAL-MIX 2
-- Idol Language: IDOL-KR 2 / IDOL-MIX 2 / IDOL-ENG-FORWARD 2 / IDOL-FULL-ENGLISH 2
-- 아이돌 8곡의 동일 `Language Mode + Idol Style` 조합은 반복하지 않도록 분산했습니다.
-- BPM 범위: 90~124
-- 인접 BPM 차이: 최대 20
-- 같은 Primary Genre 연속: 없음
-- 같은 Vocal 유형 연속: 없음
-- 같은 Structure 연속: 없음
+현재 단계: `BATCH_03_PLANNED_REVIEWED`
 
-## 8. 승인 전 2차 수정 기록 — 2026-09-03
-
-- 수정 대상: 032, 033, 037, 043, 045, 046, 047, 049, 050, 051, 056, 057, 058
-- 제목 수정: 033 `대사 말고 얘기`, 043 `그냥 내 이름`, 047 `한 뼘 가까이`, 050 `오늘은 먼저 갈게요`, 058 `두 장의 인사말`
-- Hook 압축/교체: 033, 037, 043, 045, 046, 047, 049, 050, 051, 056, 057, 058
-- 스타일 정합성 수정: 032 Idol Style → `Guitar Pop / Fresh K-Pop`
-- 내부 중복 수정: 046 Male 복식 파트너형, 057 Female로 조정해 Vocal 12/12/6 유지
-- 관계 중복 수정: 045 오래된 우정으로 변경, 056 관계 정의 대화 제거
-- 상태: 전곡 `PLANNED`, 실제 가사 `NOT_STARTED`
-
-## 9. 누적 QA 상태
-
-현재 단계: `BATCH_02_REVISED_PLANNING_REVIEW`
-
-- [x] Track 001~060 제목 핵심어 누적
-- [x] Track 001~060 상황·관계 단계 누적
-- [x] Track 001~060 Hook 문법 누적
-- [x] Track 001~060 장르·BPM·보컬·언어 누적
-- [x] Batch 02 내부 중복 2차 검토
-- [x] Batch 01 ↔ Batch 02 교차 중복 2차 검토
+- [x] Track 001~090 제목 핵심어 누적
+- [x] Track 001~090 상황·관계 단계 누적
+- [x] Track 001~090 Hook 문법 누적
+- [x] Track 001~090 장르·BPM·보컬·언어 누적
+- [x] Batch 03 1차 QA 및 수정 반영
+- [x] Track 001~060 ↔ 061~090 교차 중복 검토
 - [x] 과거 여름 프로젝트 회피어 유지 확인
-- [x] 승인 전 수정 권장 13곡 반영
+- [x] Track 061~090 전곡 최종 `PLANNED`
 - [ ] 사용자 Decision Gate 승인
 - [ ] 작사 후 실제 Hook 리듬 재검토
 - [ ] Style Prompt 문구 중복 검토
