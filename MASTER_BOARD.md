@@ -11,13 +11,13 @@
 | No. | Title | 구체적 상황 | 관계 단계 / 화자 | 감정 방향 | Hook 아이디어 / 첫 문장 | Primary Genre | BPM | Vocal | Language Mode | Idol Style | Hook Language | English Placement | Structure | 차별점 | Status |
 |---:|---|---|---|---|---|---|---:|---|---|---|---|---|---|---|---|
 | 001 | 긴소매를 꺼낸 날 | 아침에 옷장을 열다 처음으로 긴소매를 고르고 계절이 바뀐 걸 체감함 | 솔로 화자 | 낯섦 → 가벼운 설렘 | 오늘은 소매를 조금 내려 입어 | Indie Pop | 108 | Female | GENERAL-KR | N/A | KR | 없음 | I-V-C-V-PC-C-IB-FC-O | 계절 변화 자체를 연애가 아닌 생활 감각으로 시작 | PLANNED |
-| 002 | Open Window Drive | 선선한 저녁, 목적지 없이 창문을 열고 외곽도로를 달림 | 솔로 화자 | 피로 → 해방 | Open window, 오늘은 천천히 가 | City Pop | 114 | Male | GENERAL-MIX | N/A | MIX | Title·Chorus만 짧게 | I-V-PC-C-V-C-S-FC-O | 여름의 Window Down과 달리 속도보다 여유와 온도 변화 중심 | PLANNED |
+| 002 | Cool Air Drive | 선선한 저녁, 목적지 없이 외곽도로를 천천히 달림 | 솔로 화자 | 피로 → 해방 | Cool air, 오늘은 천천히 가 | City Pop | 114 | Male | GENERAL-MIX | N/A | MIX | Title·Chorus만 짧게 | I-V-PC-C-V-C-S-FC-O | 여름 `Window Down`과 직접 겹치는 창문/명령형 이미지를 제거 | PLANNED |
 | 003 | 아홉 시의 공기 | 밤 9시 편의점 앞에서 하루를 정리하며 혼자 잠깐 멈춤 | 솔로 화자 | 복잡함 → 안도 | 아홉 시 공기는 생각보다 괜찮아 | Alternative R&B | 96 | Female | GENERAL-KR | N/A | KR | 없음 | I-V-C-V-PC-C-B-FC-O | 독백형 저음 R&B, 관계 서사 없음 | PLANNED |
 | 004 | 책갈피 사이 | 오래된 책에서 예전에 적어둔 메모를 우연히 발견함 | 과거의 자신 / 솔로 | 당황 → 다정한 자기 수용 | 그때의 나는 여기서 멈췄구나 | Acoustic Pop | 102 | Male | GENERAL-KR | N/A | KR | 없음 | I-V-C-V-C-IB-B-FC-O | 회상이지만 전 연인이 아닌 과거의 자신에게 향함 | PLANNED |
 | 005 | Corner Seat | 자주 가는 카페의 구석 자리에 늘 보던 사람이 먼저 앉아 있음 | 새로운 관심 | 호기심 → 가벼운 설렘 | Corner seat, 오늘은 네가 먼저네 | Synth Pop | 120 | Female | IDOL-MIX | Fresh Synth Pop | MIX | Title·Post-Chorus | I-V-PC-C-PV-V-C-B-FC-O | 작은 관찰에서 시작하는 밝은 아이돌 팝 | PLANNED |
 | 006 | 늦게 온 대답 | 며칠 전 보낸 진지한 메시지에 뒤늦게 답장이 도착함 | 관계 재조정 | 긴장 → 차분한 확인 | 늦게 와도 대답은 대답이니까 | Pop Rock | 116 | Male | GENERAL-KR | N/A | KR | 없음 | I-V-PC-C-V-C-IB-FC-O | 즉답·빠른 연락이 아닌 지연된 대화의 현실성 | PLANNED |
 | 007 | 주말의 빈칸 | 약속이 취소된 토요일을 처음엔 허전해하다 혼자 보내기로 함 | 솔로 화자 | 허전함 → 만족 | 비어 있는 하루도 내 하루니까 | Alternative Pop | 104 | Female | GENERAL-KR | N/A | KR | 없음 | I-V-C-V-PC-C-B-O | 혼자 있음 자체를 긍정, 위로 문구 과잉 금지 | PLANNED |
-| 008 | Crosswalk Timing | 퇴근길 횡단보도에서 자꾸 같은 사람과 신호를 기다리게 됨 | 낯선 사람 / 관심 전 단계 | 무료함 → 호기심 | Same light, same time, 또 마주쳤네 | 2-Step Pop | 118 | Male | IDOL-ENG-FORWARD | UK Garage / 2-Step Pop | EN/MIX | Chorus·Post-Chorus 중심 | I-V-PC-C-PV-V-C-B-FC-O | 빠른 2-Step이지만 사건은 매우 일상적 | PLANNED |
+| 008 | Seventh Floor | 퇴근 시간대 아파트 엘리베이터에서 자주 마주치는 이웃과 처음 긴 대화를 나눔 | 이웃 / 관심 전 단계 | 어색함 → 호기심 | Seventh floor, 오늘은 먼저 인사할게 | 2-Step Pop | 118 | Male | IDOL-ENG-FORWARD | UK Garage / 2-Step Pop | EN/MIX | Chorus·Post-Chorus 중심 | I-V-PC-C-PV-V-C-B-FC-O | 여름 횡단보도·열차 만남과 다른 수직 이동/이웃 관계 | PLANNED |
 | 009 | Borrowed Jacket | 갑자기 추워진 저녁에 친구의 재킷을 빌려 입고 귀가함 | 오래된 친구 | 장난 → 미묘한 친밀감 | 네 재킷이 생각보다 잘 맞네 | Groove Pop | 112 | Female | GENERAL-MIX | N/A | KR | Title만 영어 | I-V-PC-C-V-C-IB-FC-O | 사물은 관계를 드러내는 소품으로만 사용 | PLANNED |
 | 010 | 길어진 퇴근길 | 해가 빨리 지면서 익숙한 퇴근길이 전보다 길게 느껴짐 | 직장인 / 솔로 | 피로 → 정리 | 오늘 길은 왜 조금 더 길지 | Folk Pop | 98 | Male | GENERAL-KR | N/A | KR | 없음 | I-V-C-V-C-B-FC-O | 가을의 짧아진 낮을 직장인의 체감으로 표현 | PLANNED |
 | 011 | First Cold Morning | 전날보다 확실히 차가워진 아침, 출근 준비가 달라진 순간 | 솔로 화자 | 놀람 → 상쾌함 | 차가운 아침이 먼저 문을 열어 | Dreamy Pop | 110 | Female | IDOL-KR | Dreamy Pop / Alternative K-Pop | KR | Ad-lib 최소 | I-V-PC-C-V-PC-C-IB-FC-O | 아침 공기의 질감 중심, 연애 없음 | PLANNED |
@@ -44,23 +44,20 @@
 ## 분포 확인
 
 ### Vocal
-
 - Female: 13곡 — 001, 003, 005, 007, 009, 011, 014, 017, 019, 022, 024, 026, 028
 - Male: 12곡 — 002, 004, 006, 008, 010, 012, 015, 018, 020, 023, 025, 029
 - Duet: 5곡 — 013, 016, 021, 027, 030
 
 ### Language
-
 - 한국어 중심: 17곡
 - 한영 혼합: 8곡
 - 영어 비중 높은 아이돌 팝: 3곡
 - 완전 영어: 2곡
 
 ### BPM
-
-- 84~96: 7곡
-- 97~106: 8곡
-- 107~116: 9곡
+- 84~96: 5곡
+- 97~106: 9곡
+- 107~116: 10곡
 - 117~126: 6곡
 
 ## 승인 규칙
