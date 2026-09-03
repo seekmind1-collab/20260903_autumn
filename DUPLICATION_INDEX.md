@@ -1,162 +1,185 @@
-# DUPLICATION INDEX — 2026 AUTUMN 30 TRACKS
+# DUPLICATION INDEX — 2026 AUTUMN 60 TRACKS
 
 ## 목적
 
-Track 001~030의 제목 핵심어, 상황, Hook 문법, 장르, BPM, 보컬, 언어 배치를 요약 추적합니다.
+Track 001~060의 제목 핵심어, 상황, 관계 단계, Hook 문법, 장르, BPM, 보컬, 언어 배치를 누적 추적합니다.
 
-실제 작사 세션에서는 과거 30곡 전체 가사를 다시 읽지 않고 이 파일과 대상 Track의 MASTER_BOARD 행을 중심으로 중복을 방지합니다.
+실제 작사 세션에서는 과거 전체 가사를 다시 읽지 않고 이 파일, 대상 Track의 MASTER BOARD 행, 공통 규칙을 중심으로 중복을 방지합니다.
 
-## 1. 제목 핵심어
+## 1. 누적 요약 인덱스
 
-| No. | Title | 핵심어 | 제목 언어 |
-|---:|---|---|---|
-| 001 | 긴소매를 꺼낸 날 | 긴소매, 꺼낸 날 | KR |
-| 002 | Cool Air Drive | cool air, drive | EN |
-| 003 | 아홉 시의 공기 | 아홉 시, 공기 | KR |
-| 004 | 책갈피 사이 | 책갈피, 사이 | KR |
-| 005 | Corner Seat | corner, seat | EN |
-| 006 | 늦게 온 대답 | 늦게, 대답 | KR |
-| 007 | 주말의 빈칸 | 주말, 빈칸 | KR |
-| 008 | Seventh Floor | seventh, floor | EN |
-| 009 | Borrowed Jacket | borrowed, jacket | EN |
-| 010 | 길어진 퇴근길 | 길어진, 퇴근길 | KR |
-| 011 | First Cold Morning | first, cold, morning | EN |
-| 012 | 오래된 번호 | 오래된, 번호 | KR |
-| 013 | 전시가 끝난 뒤 | 전시, 끝난 뒤 | KR |
-| 014 | Half Past Four | half past four | EN |
-| 015 | 돌아가는 길에 | 돌아가는 길 | KR |
-| 016 | Room for Two | room, two | EN |
-| 017 | 서랍 정리 | 서랍, 정리 | KR |
-| 018 | Good Enough Today | good enough, today | EN |
-| 019 | 한 번 더 묻지 않을게 | 묻지 않을게 | KR |
-| 020 | Market Sunday | market, sunday | EN |
-| 021 | 네가 두고 간 말 | 두고 간 말 | KR |
-| 022 | Slow Signal | slow, signal | EN |
-| 023 | 빈 의자 하나 | 빈 의자, 하나 | KR |
-| 024 | Late Afternoon Call | late afternoon, call | EN |
-| 025 | 목도리는 아직 | 목도리, 아직 | KR |
-| 026 | Quiet Weekend | quiet, weekend | EN |
-| 027 | 같은 방향 | 같은, 방향 | KR |
-| 028 | November Letter | november, letter | EN |
-| 029 | 문 닫기 전 | 문 닫기 전 | KR |
-| 030 | 다음 계절 전까지 | 다음 계절, 전까지 | KR |
+| No. | Title | 제목 핵심어 | 상황 핵심 | 관계 단계 / 화자 | Hook 문법 | Primary Genre | BPM | Vocal | Language Mode |
+|---:|---|---|---|---|---|---|---:|---|---|
+| 001 | 긴소매를 꺼낸 날 | 긴소매, 꺼낸 날 | 첫 긴소매 선택·계절 변화 | 솔로 | 생활 묘사형 긴 선율 | Indie Pop | 108 | Female | GENERAL-KR |
+| 002 | Cool Air Drive | cool air, drive | 선선한 저녁 외곽 드라이브 | 솔로 | 영어 표지 + 한국어 전개 | City Pop | 114 | Male | GENERAL-MIX |
+| 003 | 아홉 시의 공기 | 아홉 시, 공기 | 밤 9시 편의점 앞 멈춤 | 솔로 | 저음 독백형·반복 최소 | Alternative R&B | 96 | Female | GENERAL-KR |
+| 004 | 책갈피 사이 | 책갈피, 사이 | 오래된 메모 발견 | 과거의 자신 / 솔로 | 회상 문장형·끝단어 변화 | Acoustic Pop | 102 | Male | GENERAL-KR |
+| 005 | Corner Seat | corner, seat | 카페 단골 자리의 익숙한 사람 | 새로운 관심 | Title pickup + 짧은 Post-Chorus | Synth Pop | 120 | Female | IDOL-MIX |
+| 006 | 늦게 온 대답 | 늦게, 대답 | 며칠 뒤 도착한 진지한 답장 | 관계 재조정 | 문장형 Rock Hook | Pop Rock | 116 | Male | GENERAL-KR |
+| 007 | 주말의 빈칸 | 주말, 빈칸 | 취소된 토요일을 혼자 보내기 | 솔로 | 안정형 Refrain | Alternative Pop | 104 | Female | GENERAL-KR |
+| 008 | Seventh Floor | seventh, floor | 엘리베이터 이웃과 첫 긴 대화 | 이웃 / 관심 전 | 숫자·장소 pickup + 2-Step response | 2-Step Pop | 118 | Male | IDOL-ENG-FORWARD |
+| 009 | Borrowed Jacket | borrowed, jacket | 친구 재킷을 빌려 귀가 | 오래된 친구 | 장난스러운 관찰형 | Groove Pop | 112 | Female | GENERAL-MIX |
+| 010 | 길어진 퇴근길 | 길어진, 퇴근길 | 짧아진 낮을 퇴근길에서 체감 | 직장인 / 솔로 | 질문형 Folk Hook | Folk Pop | 98 | Male | GENERAL-KR |
+| 011 | First Cold Morning | first, cold, morning | 확실히 차가워진 출근 아침 | 솔로 | 이미지형 상승 선율 | Dreamy Pop | 110 | Female | IDOL-KR |
+| 012 | 오래된 번호 | 오래된, 번호 | 연락처 정리 중 옛 친구 번호 | 오래된 친구 | 망설임 질문형 | Vocal Pop | 94 | Male | GENERAL-KR |
+| 013 | 전시가 끝난 뒤 | 전시, 끝난 뒤 | 전시 폐관 후 감상 대화 | 연인 초기 / Duet | Duet 질문-응답형 | City Pop | 108 | Duet | GENERAL-KR |
+| 014 | Half Past Four | half past four | 오후 4:30 즉흥 약속 | 친구 그룹 | 영어 시간표지 + Group response | Rhythm Pop | 122 | Female | IDOL-ENG-FORWARD |
+| 015 | 돌아가는 길에 | 돌아가는 길 | 데이트 후 혼자 더 걸으며 정리 | 연인 초기 / 솔로 | 잔향형 Refrain | Indie Pop | 106 | Male | GENERAL-KR |
+| 016 | Room for Two | room, two | 조용한 식당에서 관계 대화 | 오래된 관계 / Duet | 대화형 Duet·겹창 최소 | Alternative R&B | 100 | Duet | GENERAL-MIX |
+| 017 | 서랍 정리 | 서랍, 정리 | 티켓·메모를 정리하며 보관 결정 | 솔로 | 대구형 Acoustic Hook | Acoustic Pop | 92 | Female | GENERAL-KR |
+| 018 | Good Enough Today | good enough, today | 계획 미달을 실패로 규정하지 않기 | 솔로 | 영어 짧은 선언 + melodic release | Synth Pop | 118 | Male | IDOL-FULL-ENGLISH |
+| 019 | 한 번 더 묻지 않을게 | 묻지 않을게 | 상대의 침묵을 받아들이기 | 관계 정리 직전 | 결심형·반복 적게 | Soft Rock | 110 | Female | GENERAL-KR |
+| 020 | Market Sunday | market, sunday | 동네 시장 장보기·늦은 점심 | 친구 그룹 | 생활형 긴 Chorus 문장 | Groove Pop | 116 | Male | GENERAL-MIX |
+| 021 | 네가 두고 간 말 | 두고 간 말 | 이별 후 마지막 대화 재해석 | 이별 이후 / Duet memory | 반전형 문장 | Alternative Pop | 102 | Duet | GENERAL-KR |
+| 022 | Slow Signal | slow, signal | 서로 좋아하지만 답을 서두르지 않기 | 썸 / 관계 유예 | 영어 대비형 syncopated Hook | UK Garage | 124 | Female | IDOL-ENG-FORWARD |
+| 023 | 빈 의자 하나 | 빈 의자, 하나 | 모임에서 빠진 친구의 빈자리 | 친구 그룹 | 관찰형 Folk Hook | Folk Pop | 96 | Male | GENERAL-KR |
+| 024 | Late Afternoon Call | late afternoon, call | 늦은 오후 미룬 전화 | 가족 또는 가까운 사람 | 시간-행동 연결형 | City Pop | 112 | Female | GENERAL-MIX |
+| 025 | 목도리는 아직 | 목도리, 아직 | 목도리 전 단계의 추위 체감 | 솔로 | 대비형 저음 Hook | Alternative R&B | 90 | Male | GENERAL-KR |
+| 026 | Quiet Weekend | quiet, weekend | 사람을 만나지 않는 주말 회복 | 솔로 | 선택형 Indie Refrain | Indie Pop | 106 | Female | GENERAL-KR |
+| 027 | 같은 방향 | 같은, 방향 | 귀가 동료 둘의 개인 대화 | 동료 / Duet | Duet 제안형 + 짧은 응답 | Rhythm Pop | 100 | Duet | GENERAL-MIX |
+| 028 | November Letter | november, letter | 보내지 않을 편지로 관계 정리 | 솔로 | 완전 영어 서술형 Chorus | Synth Pop | 120 | Female | IDOL-FULL-ENGLISH |
+| 029 | 문 닫기 전 | 문 닫기 전 | 단골 가게 마지막 인사 | 지역 관계 | 행동 약속형 Band Hook | Pop Rock | 114 | Male | GENERAL-KR |
+| 030 | 다음 계절 전까지 | 다음 계절, 전까지 | 겨울 전까지 관계 결론 유예 | 오래된 관계 / Duet | 합의형 Duet·열린 Outro | Alternative Pop | 104 | Duet | GENERAL-MIX |
+| 031 | Shorter Hair | shorter hair | 헤어컷 후 자기 변화 | 솔로 | Title pickup + KR 생활 선언 | Pop Rock | 104 | Male | IDOL-KR |
+| 032 | Blurred Photo | blurred photo | 친구 단체사진 선택 | 친구 그룹 | 선명함/자연스러움 대비형 | Jangle Pop | 114 | Female | IDOL-MIX |
+| 033 | 대사 아닌 얘기 | 대사, 얘기 | 연극 연습 중 실제 대화 | 취미 지인 / Duet | 역할/실제 목소리 전환형 | Funk Pop | 108 | Duet | GENERAL-KR |
+| 034 | 간을 보다가 | 간, 보다가 | 남매가 기억으로 요리 | 성인 남매 | 행동 중 동시 반응형 | Organic Pop | 100 | Female | GENERAL-KR |
+| 035 | Catch the Count | catch, count | 초급 댄스 수업 실수 | 솔로/수업 그룹 | 영어 순환·리듬형 | Disco Pop | 120 | Male | IDOL-FULL-ENGLISH |
+| 036 | 식지 않은 저녁 | 식지 않은, 저녁 | 늦은 근무 뒤 남겨 둔 식사 | 안정된 연인 | 행동 증거형 Refrain | Modern Soul | 100 | Female | GENERAL-KR |
+| 037 | 떨린 목소리로 | 떨린, 목소리 | 업무 발표 완주 | 직장인 / 솔로 | 진행에 따라 변화하는 성장형 | Piano Pop | 108 | Male | GENERAL-KR |
+| 038 | 손에 흙이 묻은 채 | 흙, 묻은 채 | 도예 수업의 첫 긴 대화 | 새로운 관심 / Duet | 구체 행동+어색함 관찰형 | Dream Pop | 102 | Duet | GENERAL-KR |
+| 039 | Strike or Smile | strike, smile | 친구 볼링 | 친구 그룹 | 점수/반응 대비 chant | Dance Pop | 122 | Female | IDOL-MIX |
+| 040 | 아버지의 그 농담 | 아버지, 농담 | 반복되는 가족 농담 | 성인 자녀/아버지 | 결말을 아는 반복형 | Folk Soul | 104 | Male | GENERAL-KR |
+| 041 | Rooftop Lunch | rooftop, lunch | 평일 업무 중 옥상 점심 | 직장인 / 솔로 | Title pickup + 공간 분리형 | Indie Rock | 112 | Female | GENERAL-MIX |
+| 042 | 서로 다른 달력 | 서로 다른, 달력 | 안정된 연인의 일정 조율 | 안정된 연인 / Duet | 교차 일정 call-response | Piano Pop | 94 | Duet | GENERAL-KR |
+| 043 | 이름만 말해보기 | 이름, 말해보기 | 직업 없이 자기소개 | 솔로/수강생 | 역할 제거 선언형 | Alternative Soul | 106 | Male | GENERAL-KR |
+| 044 | 그때 그 별명 | 그때, 별명 | 동창 모임 집단 기억 | 옛 친구 그룹 | 시간 점프 + punchline | Jangle Pop | 118 | Female | GENERAL-KR |
+| 045 | 서로의 플레이리스트 | 플레이리스트 | 호감 전 취향 교환 | 친구→호감 전 | 구체 숫자 관찰형 | Contemporary R&B | 100 | Male | GENERAL-KR |
+| 046 | Backspin | backspin | 탁구 랠리 | 친구/취미 팀 | 영어 스포츠 response형 | Funk Pop | 120 | Female | IDOL-ENG-FORWARD |
+| 047 | Shy Paws | shy paws | 보호소 동물 신뢰 | 봉사자/낯선 동물 | 기다림 뒤 접근 관찰형 | Acoustic Soul | 100 | Male | GENERAL-MIX |
+| 048 | 박수 타이밍 | 박수, 타이밍 | 조카 발표회 응원 | 이모·삼촌/조카 | 실수+응원 반전형 | Brass Pop | 116 | Female | GENERAL-KR |
+| 049 | Missed the Movie | missed, movie | 영화 놓친 친구 대화 | 친구 그룹 | 영어 실패/획득 대비형 | Electropop | 124 | Male | IDOL-FULL-ENGLISH |
+| 050 | 이번엔 야근 안 합니다 | 야근, 안 합니다 | 정시 퇴근 경계 설정 | 직장인 / 솔로 | 업무 문장형 slogan | Soft Rock | 108 | Female | GENERAL-KR |
+| 051 | 선생님, 오랜만이에요 | 선생님, 오랜만 | 옛 선생님과 재회 | 옛 제자/선생님 | 직접 호칭 대화형 | Folk Soul | 98 | Male | GENERAL-KR |
+| 052 | 잘 지냈어, 정말 | 잘 지냈어, 정말 | 전 연인과 담백한 안부 | 이별 이후 / Duet | 짧은 인사 + 의미 변화형 | Adult Contemporary Pop | 90 | Duet | GENERAL-KR |
+| 053 | 엄마는 눈대중 | 엄마, 눈대중 | 늦가을 음식 준비 | 성인 자녀/어머니 | 세대 방식 대비형 | Bossa Pop | 106 | Female | GENERAL-KR |
+| 054 | No Cue Needed | no cue, needed | 동아리 행사 사고 수습 | 친구·동아리 그룹 | 영어 title + KR teamwork hook | Rhythm Pop | 120 | Male | IDOL-KR |
+| 055 | 직급을 빼고 | 직급, 빼고 | 프로젝트 뒤 팀 식사 | 직장 동료 그룹 | 호칭 변화 관찰형 | Funk Pop | 112 | Female | GENERAL-KR |
+| 056 | One Song Only | one song, only | 행사에서 한 곡 춤 | 새로운 관심 / Duet | 영어 조건형 + 관계 질문 | Vocal Pop | 118 | Duet | IDOL-ENG-FORWARD |
+| 057 | 왼손부터 다시 | 왼손, 다시 | 피아노 취미 복귀 | 솔로 | 좌/우 대구형 | Bedroom Pop | 102 | Male | GENERAL-KR |
+| 058 | 축하말을 고치다가 | 축하말, 고치다가 | 부모 퇴직 축하말 준비 | 성인 남매 / Duet | 다름/같음 병렬형 | Piano Soul Pop | 104 | Duet | GENERAL-KR |
+| 059 | 낯선 잠버릇 | 낯선, 잠버릇 | 처음 조카 돌봄 | 이모·삼촌/조카 | 관찰 후 긴장 해소형 | Acoustic Pop | 96 | Female | GENERAL-KR |
+| 060 | Your Pace | your pace | 노령 반려견 산책 | 오래된 반려 관계 | 영어 pickup + 속도 전환형 | Folk Pop | 104 | Male | GENERAL-MIX |
 
-## 2. 제목 중복 주의
+## 2. Track 001~030에서 이미 밀집된 축
 
-- 시간 표현: 003 `아홉 시`, 014 `Half Past Four`, 024 `Late Afternoon`은 모두 시간 기반이므로 Hook 리듬을 다르게 유지합니다.
-- 주말 표현: 007 `주말의 빈칸`, 020 `Market Sunday`, 026 `Quiet Weekend`는 각각 취소된 일정 / 친구 외출 / 혼자 회복으로 상황을 분리합니다.
-- 공간 표현: 005 `Corner Seat`, 008 `Seventh Floor`, 016 `Room for Two`, 023 `빈 의자 하나`는 모두 장소·자리 단어가 있으므로 가사 핵심 이미지가 서로 겹치지 않게 합니다.
-- `길`: 010 `퇴근길`, 015 `돌아가는 길`, 027 `같은 방향`은 이동을 다루지만 솔로 피로 / 데이트 후 정리 / 동료 대화로 구분합니다.
-- `전/뒤`: 013 `끝난 뒤`, 029 `닫기 전`, 030 `전까지`는 시간 조건형 문법이므로 Chorus 반복 방식을 다르게 합니다.
+### 제목 핵심어
 
-## 3. Hook 아이디어와 반복 방식
+- 시간 표지: `아홉 시`, `Half Past Four`, `Late Afternoon`
+- 주말: `주말`, `Sunday`, `Weekend`
+- 공간/자리: `Corner Seat`, `Seventh Floor`, `Room for Two`, `빈 의자`
+- 이동: `퇴근길`, `돌아가는 길`, `같은 방향`
+- 관계 정리 문법: `늦게 온 대답`, `묻지 않을게`, `두고 간 말`, `다음 계절 전까지`
 
-| No. | Hook first line / idea | 반복 방식 |
-|---:|---|---|
-| 001 | 오늘은 소매를 조금 내려 입어 | 생활 묘사형, 긴 선율 |
-| 002 | Cool air, 오늘은 천천히 가 | 짧은 영어 표지 + 한국어 전개 |
-| 003 | 아홉 시 공기는 생각보다 괜찮아 | 저음 독백형, 반복 최소 |
-| 004 | 그때의 나는 여기서 멈췄구나 | 회상 문장형, 마지막 단어 변화 |
-| 005 | Corner seat, 오늘은 네가 먼저네 | Title pickup + 짧은 Post-Chorus |
-| 006 | 늦게 와도 대답은 대답이니까 | 문장형 Rock Hook |
-| 007 | 비어 있는 하루도 내 하루니까 | 안정형 Refrain, 과도한 위로 금지 |
-| 008 | Seventh floor, 오늘은 먼저 인사할게 | 숫자/장소 pickup + 2-Step response |
-| 009 | 네 재킷이 생각보다 잘 맞네 | 장난스러운 관찰형 |
-| 010 | 오늘 길은 왜 조금 더 길지 | 질문형 Folk Hook |
-| 011 | 차가운 아침이 먼저 문을 열어 | 이미지형 상승 선율 |
-| 012 | 지우기 전에 한 번은 눌러볼까 | 망설임 질문형 |
-| 013 | 다 보고 나니 네 얘기가 더 궁금해 | Duet 질문-응답형 |
-| 014 | Half past four, 끝나면 바로 나와 | 영어 시간표지 + Group response |
-| 015 | 돌아가는 길에 네 말이 남아 | 잔향형 Refrain |
-| 016 | 우리 사이엔 아직 말할 자리가 있어 | 대화형 Duet, 겹창 최소 |
-| 017 | 남겨 둘 것과 놓을 것을 나눠 | 대구형 Acoustic Hook |
-| 018 | Good enough today | 영어 짧은 선언 + melodic release |
-| 019 | 한 번 더 묻지는 않을게 | 결심형, 반복 횟수 적게 |
-| 020 | 별일 없는 일요일이 제일 오래 남아 | 생활형 긴 Chorus 문장 |
-| 021 | 두고 간 건 물건이 아니라 그 말이었어 | 반전형 문장 |
-| 022 | Slow signal, no rush tonight | 영어 대비형, syncopated Hook |
-| 023 | 한 자리 비었을 뿐인데 조용하네 | 관찰형 Folk Hook |
-| 024 | 늦은 오후라서 지금은 말할 수 있어 | 시간-행동 연결형 |
-| 025 | 목도리는 아직, 주머니에 손만 넣어 | 대비형 저음 Hook |
-| 026 | 오늘은 조용한 쪽을 고를래 | 선택형 Indie Refrain |
-| 027 | 같은 방향이면 조금 더 같이 가 | Duet 제안형 + 짧은 응답 |
-| 028 | I wrote it down so I could let it rest | 완전 영어 서술형 Chorus |
-| 029 | 문 닫기 전에 인사는 하고 갈게요 | 행동 약속형 Band Hook |
-| 030 | 다음 계절 전까진 서두르지 말자 | 합의형 Duet, 열린 Outro |
-
-## 4. 상황 분포
+### 상황·관계
 
 - 계절의 물리적 변화 / 솔로 감각: 001, 003, 010, 011, 025
 - 자기 정리 / 회복: 004, 007, 017, 018, 026, 028
 - 새로운 관심 / 가벼운 관계 변화: 005, 008, 013, 022, 027
 - 연락 / 대화 / 관계 재조정: 006, 012, 016, 019, 021, 024, 030
-- 친구 / 지역 / 일상 공동체: 009, 020, 023, 029
+- 친구 / 지역 / 공동체: 009, 020, 023, 029
 - 데이트 후 감정 정리: 015
 - 즉흥 약속 / 활동성: 014
 
-## 5. 장르·BPM·보컬·언어 배열
+### 장르
 
-| No. | Primary Genre | BPM | Vocal | Language Mode |
-|---:|---|---:|---|---|
-| 001 | Indie Pop | 108 | Female | GENERAL-KR |
-| 002 | City Pop | 114 | Male | GENERAL-MIX |
-| 003 | Alternative R&B | 96 | Female | GENERAL-KR |
-| 004 | Acoustic Pop | 102 | Male | GENERAL-KR |
-| 005 | Synth Pop | 120 | Female | IDOL-MIX |
-| 006 | Pop Rock | 116 | Male | GENERAL-KR |
-| 007 | Alternative Pop | 104 | Female | GENERAL-KR |
-| 008 | 2-Step Pop | 118 | Male | IDOL-ENG-FORWARD |
-| 009 | Groove Pop | 112 | Female | GENERAL-MIX |
-| 010 | Folk Pop | 98 | Male | GENERAL-KR |
-| 011 | Dreamy Pop | 110 | Female | IDOL-KR |
-| 012 | Vocal Pop | 94 | Male | GENERAL-KR |
-| 013 | City Pop | 108 | Duet | GENERAL-KR |
-| 014 | Rhythm Pop | 122 | Female | IDOL-ENG-FORWARD |
-| 015 | Indie Pop | 106 | Male | GENERAL-KR |
-| 016 | Alternative R&B | 100 | Duet | GENERAL-MIX |
-| 017 | Acoustic Pop | 92 | Female | GENERAL-KR |
-| 018 | Synth Pop | 118 | Male | IDOL-FULL-ENGLISH |
-| 019 | Soft Rock | 110 | Female | GENERAL-KR |
-| 020 | Groove Pop | 116 | Male | GENERAL-MIX |
-| 021 | Alternative Pop | 102 | Duet | GENERAL-KR |
-| 022 | UK Garage | 124 | Female | IDOL-ENG-FORWARD |
-| 023 | Folk Pop | 96 | Male | GENERAL-KR |
-| 024 | City Pop | 112 | Female | GENERAL-MIX |
-| 025 | Alternative R&B | 90 | Male | GENERAL-KR |
-| 026 | Indie Pop | 106 | Female | GENERAL-KR |
-| 027 | Rhythm Pop | 100 | Duet | GENERAL-MIX |
-| 028 | Synth Pop | 120 | Female | IDOL-FULL-ENGLISH |
-| 029 | Pop Rock | 114 | Male | GENERAL-KR |
-| 030 | Alternative Pop | 104 | Duet | GENERAL-MIX |
+Batch 01에서 2회 이상 사용된 Primary Genre:
+- Indie Pop 3
+- City Pop 3
+- Alternative R&B 3
+- Synth Pop 3
+- Alternative Pop 3
+- Acoustic Pop 2
+- Pop Rock 2
+- Groove Pop 2
+- Folk Pop 2
+- Rhythm Pop 2
 
-## 6. 과거 20260722_summer와의 교차 중복 검토
+Batch 02에서는 위 장르의 연속·집중 사용을 피하고 Jangle Pop, Organic Pop, Disco Pop, Modern Soul, Piano Pop, Dream Pop, Dance Pop, Folk Soul, Indie Rock, Alternative Soul, Contemporary R&B, Acoustic Soul, Brass Pop, Electropop, Adult Contemporary Pop, Bossa Pop, Bedroom Pop, Piano Soul Pop 등으로 분산했습니다.
 
-직접 참고한 과거 프로젝트의 제목·Hook·상황 인덱스와 비교한 결과:
+## 3. Track 031~060 내부 중복 위험 검토
 
-- `Window Down`과 직접 겹치던 초기 `Open Window Drive`를 `Cool Air Drive`로 변경했습니다.
-- 여름 Track 011의 횡단보도 우연한 재회와 겹치던 초기 Track 008 상황을 `Seventh Floor`의 이웃/엘리베이터 장면으로 변경했습니다.
-- 여름의 `두 정거장 먼저`, `Same Train, New Seat`와 유사한 대중교통 만남 상황을 이번 프로젝트에서는 핵심 상황으로 사용하지 않습니다.
-- 여름의 `마지막`, `출발`, `비`, `우산`, `휴가`, `Window`, `Fast Reply`, `Green Light` 핵심어를 가을 제목에서 재사용하지 않습니다.
-- 여름의 빠른 즉흥 여행·축제·야외 활동 비중을 줄이고 일상 전환·정리·대화 비중을 높였습니다.
+- 활동형 035 / 039 / 046은 댄스 수업 / 볼링 / 탁구로 구분하고 Hook을 `카운트 회복 / 점수 대비 / 랠리 유지`로 분리했습니다.
+- 가족형 034 / 040 / 048 / 051 / 053 / 058 / 059는 남매 / 아버지 / 조카 / 옛 선생님 / 어머니 / 부모 퇴직 / 조카 돌봄으로 관계를 분산했습니다.
+- 동물형 047 / 060은 `처음 형성되는 보호소 신뢰`와 `오래된 반려견의 노화에 맞추는 동행`으로 관계 방향을 반대로 설계했습니다.
+- 듀엣 033 / 038 / 042 / 052 / 056 / 058은 취미 지인 / 새로운 관심 / 안정된 연인 / 이별 이후 / 새로운 관심 / 남매로 분리했습니다.
+- 직장형 037 / 041 / 043 / 050 / 055는 발표 / 짧은 점심 회복 / 직업 없는 자기소개 / 야근 경계 / 팀 위계 완화로 행동을 분리했습니다.
+- 동일 Primary Genre, 동일 Vocal 유형, 동일 Structure를 연속 배치하지 않았습니다.
+- 인접 BPM 차이는 최대 20 BPM으로 유지했습니다.
 
-## 7. 작사 세션용 주의 사항
+## 4. Track 001~030 ↔ 031~060 교차 검토
 
-- Track 003, 010, 025는 모두 솔로 저중속 감각곡이므로 같은 서정적 문장 패턴을 쓰지 않습니다.
-- Track 005, 008, 022는 관계 초기의 리듬형 곡이지만 공간/관계/Hook 언어 구조를 다르게 유지합니다.
-- Track 012, 016, 019, 021은 관계 대화와 정리를 다루므로 모두 미련·후회 독백으로 수렴하지 않게 합니다.
-- Track 017과 028은 정리의 의미가 있지만 017은 물리적 정리, 028은 쓰기를 통한 감정 정리입니다.
-- Track 020, 023, 029는 공동체/친구/지역 관계이며 로맨스로 변환하지 않습니다.
-- Track 030은 프로젝트 마지막 곡이지만 `새로운 시작`, `찬란한 미래` 같은 금지형 결론을 사용하지 않습니다.
+- 041 `Rooftop Lunch` ↔ 007/026: 주말·하루 단위 회복이 아니라 평일 업무 중 20분짜리 회복.
+- 042 `서로 다른 달력` ↔ 030: 관계 결론 유예가 아니라 이미 안정된 연인의 일정 조율.
+- 044 `그때 그 별명` ↔ 012: 연락처를 통한 재접촉이 아니라 동창 모임 안의 집단 기억.
+- 052 `잘 지냈어, 정말` ↔ 019/021/028: 미련·정리 과정이 아니라 감정 정리 이후의 짧은 현재형 안부.
+- 055 `직급을 빼고` ↔ 027: 두 동료의 친밀감 변화가 아니라 팀 전체의 비로맨스 공동체 변화.
+- 056 `One Song Only` ↔ 022: 관계를 늦추는 합의가 아니라 짧은 공동 행동 뒤 호감이 선명해지는 방향.
+- 057 `왼손부터 다시` ↔ 017/028: 감정·물리 정리가 아니라 중단했던 취미의 신체 기억 회복.
+- 060 `Your Pace` ↔ 010/015/027: 이동 경로가 아니라 노령 반려견의 속도에 맞추는 돌봄 행동.
 
-## 8. 통합 QA 기록
+## 5. 제목 핵심어 교차 검토
 
-현재 단계: `INITIAL_PLANNING_REVIEW`
+Batch 02 신규 제목의 중심어는 Batch 01 제목 중심어와 직접 반복하지 않습니다.
 
-- [x] 30곡 제목 핵심어 기록
-- [x] 30곡 Hook 아이디어 기록
-- [x] 장르·BPM·보컬·언어 모드 기록
-- [x] 과거 여름 프로젝트와 직접 중복 1차 검토
-- [x] 직접 충돌 후보 002, 008 수정
+특히 Batch 01에서 반복 축이 된 아래 단어군을 Batch 02 제목 중심어에서 피했습니다.
+
+- `길 / 방향`
+- `자리 / seat / room / floor`
+- `주말 / Sunday / Weekend`
+- `공기 / cold / morning`
+- `전화 / call / signal / 대답`
+- `정리 / letter`
+- `전 / 뒤 / 전까지` 같은 시간 조건형 제목 문법
+
+## 6. 과거 20260722_summer 교차 회피 유지
+
+기존 인덱스에서 정한 아래 핵심어는 Batch 02 제목에서도 사용하지 않습니다.
+
+- `Window`
+- `Fast Reply`
+- `Green Light`
+- `비`
+- `우산`
+- `휴가`
+- `출발`
+- `마지막`
+
+대중교통에서 우연히 만나는 관계 장면도 Batch 02 핵심 상황으로 사용하지 않았습니다.
+
+## 7. Batch 02 장르·BPM·보컬·언어 QA
+
+- Vocal: Female 12 / Male 12 / Duet 6
+- General Language: GENERAL-KR 19 / GENERAL-MIX 3
+- Idol Language: IDOL-KR 2 / IDOL-MIX 2 / IDOL-ENG-FORWARD 2 / IDOL-FULL-ENGLISH 2
+- 아이돌 8곡의 동일 `Language Mode + Idol Style` 조합은 반복하지 않도록 분산했습니다.
+- BPM 범위: 90~124
+- 인접 BPM 차이: 최대 20
+- 같은 Primary Genre 연속: 없음
+- 같은 Vocal 유형 연속: 없음
+- 같은 Structure 연속: 없음
+
+## 8. 누적 QA 상태
+
+현재 단계: `BATCH_02_INITIAL_PLANNING_REVIEW`
+
+- [x] Track 001~060 제목 핵심어 누적
+- [x] Track 001~060 상황·관계 단계 누적
+- [x] Track 001~060 Hook 문법 누적
+- [x] Track 001~060 장르·BPM·보컬·언어 누적
+- [x] Batch 02 내부 중복 1차 검토
+- [x] Batch 01 ↔ Batch 02 교차 중복 1차 검토
+- [x] 과거 여름 프로젝트 회피어 유지 확인
 - [ ] 사용자 Decision Gate 승인
 - [ ] 작사 후 실제 Hook 리듬 재검토
 - [ ] Style Prompt 문구 중복 검토
