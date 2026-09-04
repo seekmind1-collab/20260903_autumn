@@ -11,7 +11,7 @@
 ### Style Prompt
 
 ```text
-City Pop, 108 BPM, contrasting duet with a silky tender mid-high Voice A and a warm grounded mid Voice B, clean electric piano, muted rhythm guitar, rounded bass and soft live drums, intimate mid-tempo energy, alternating conversational verses opening into a shared final chorus, warm spacious mix with restrained vocal layering and natural dynamics
+City Pop, 108 BPM, two-voice duet with a silky tender mid-high Voice A against a warm grounded mid Voice B, bright electric piano, clean chorus guitar, melodic bass, rim-click drums and subtle brass-synth accents, breezy mid-tempo energy, alternating conversational verses expanding into a shared final chorus, polished open stereo mix with low vocal stacking and natural dynamics
 ```
 
 ### Structured Lyrics
@@ -51,15 +51,15 @@ City Pop, 108 BPM, contrasting duet with a silky tender mid-high Voice A and a w
 [Voice B]
 어떤 말이 마음에 걸렸어
 [Shared]
-하나씩 묻다 보니 골목이 길어져
+하나씩 묻다 보니 발걸음이 느려져
 
 [Final Chorus - Shared]
 다 보고 나니 우리 얘기가 더 궁금해
 처음보다 가까워진 목소리
-전시가 끝난 뒤에도 말은 이어져
+전시가 끝난 뒤에도 질문은 이어져
 
 [Outro - Shared]
-다음 골목까지만 더 걸을까
+지하철 입구까지만 더 걸을까
 ```
 
 ## Planning
@@ -104,6 +104,7 @@ City Pop, 108 BPM, contrasting duet with a silky tender mid-high Voice A and a w
 - [x] Vocal Character 핵심 특성만 Style Prompt에 반영
 - [x] Duet 성별을 임의로 추가하지 않음
 - [x] Batch 내부 Chorus 첫 문장·Hook 반복 방식·Outro 차별화 확인
+- [x] 인접 Track 012·016 실제 완성본과 Style Prompt·가사 표현 추가 비교 완료
 
 ## Listening QA
 
