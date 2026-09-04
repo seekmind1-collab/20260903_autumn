@@ -35,7 +35,7 @@ We don't need to name it now
 Slow signal, no rush tonight
 Take your time, I'm doing fine
 조금씩 가까워지면 돼
-No deadline on you and I
+No deadline for you and me
 
 [Post-Chorus]
 Low key, slow speed
@@ -51,7 +51,7 @@ Keep it easy, keep it real
 Slow signal, no rush tonight
 Take your time, I'm doing fine
 조금씩 가까워지면 돼
-No deadline on you and I
+No deadline for you and me
 
 [Bridge]
 Maybe tomorrow, maybe not
