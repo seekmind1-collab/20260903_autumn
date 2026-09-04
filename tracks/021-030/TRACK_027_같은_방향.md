@@ -11,7 +11,7 @@
 ### Style Prompt
 
 ```text
-Rhythm Pop, 100 BPM, contrasting duet with a crisp light female vocal using rhythmic phrasing and a warm grounded male vocal with conversational delivery, tight drums, rounded bass, muted guitar and electric piano, easy walking energy, alternating verses, call-and-response section and unison chorus, clean intimate mix with restrained layering
+Rhythm Pop, 100 BPM, contrasting duet with crisp light Voice A using rhythmic phrasing and warm grounded Voice B with conversational delivery, tight drums, rounded bass, muted guitar and electric piano, easy walking energy, alternating verses, call-and-response section and unison chorus, clean intimate mix with restrained layering
 ```
 
 ### Structured Lyrics
@@ -20,13 +20,13 @@ Rhythm Pop, 100 BPM, contrasting duet with a crisp light female vocal using rhyt
 [Intro]
 [Instrumental - muted guitar, bass and tight drums]
 
-[Verse 1 - Female Vocal]
+[Verse 1 - Voice A]
 회사 문을 나와 보니 늦었네
 버스 정류장 쪽으로 걷다가
 네가 같은 횡단보도 앞에 서서
 오늘도 이쪽이냐고 웃었지
 
-[Pre-Chorus - Female Vocal]
+[Pre-Chorus - Voice A]
 낮엔 할 얘기가 늘 짧았는데
 퇴근 뒤엔 괜히 말이 길어져
 
@@ -37,7 +37,7 @@ Rhythm Pop, 100 BPM, contrasting duet with a crisp light female vocal using rhyt
 골목 끝이 벌써 가까워졌네
 Still got time
 
-[Verse 2 - Male Vocal]
+[Verse 2 - Voice B]
 점심엔 몰랐던 네 취향 얘기
 주말엔 혼자 걷는 길도 듣고
 매일 보던 사람인데 오늘따라
@@ -50,10 +50,10 @@ Still got time
 지금 얘긴 오늘 여기서 더 하자
 One more block
 
-[Response - Female Vocal]
+[Response - Voice A]
 한 블록만 더 걸을까
 
-[Response - Male Vocal]
+[Response - Voice B]
 Yeah, why not
 
 [Duet Chorus - Call and Response]
