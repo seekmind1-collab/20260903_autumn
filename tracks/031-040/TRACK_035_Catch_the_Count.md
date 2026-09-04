@@ -39,7 +39,7 @@ Catch the count and keep it moving
 
 [Post-Chorus]
 One off, two back
-Still right here in the track
+I can catch it after that
 
 [Verse 2]
 The teacher points, I nod too fast
@@ -50,14 +50,14 @@ Every little place I should have been
 [Chorus]
 Catch the count, miss one, land the next
 Drop the beat, then catch your breath
-No perfect frame, no frozen faces
+No perfect take, no stopping for it
 Catch the count and keep it moving
 
 [Bridge]
 If I get it right, that's fine
 If I don't, I know the way back in
-A small mistake can change the shape
-And make the room feel less rehearsed
+A missed turn pulls a laugh from the row
+And makes the room feel less rehearsed
 
 [Final Chorus]
 Catch the count, miss one, land the next
