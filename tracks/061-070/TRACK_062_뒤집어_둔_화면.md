@@ -49,17 +49,17 @@ No rush, 천천히 말해
 화면이 엎어지자
 네 목소리가 조금 커졌어
 짧게 끝날 줄 알았던 얘기
-옆자리까지 번져 갔어
+다음 얘기로 번져 갔어
 
 [Post-Verse]
-손이 화면 쪽으로 갔다가
-눈이 마주쳐 다시 놓였어
+화면을 집어 들 뻔하다가
+눈이 마주쳐 손을 거뒀어
 
 [Final Chorus]
 화면이 엎어지자
 끊기던 문장이 이어졌어
 답장보다 먼저 들은 얘기
-오늘은 오래 남을 것 같아
+계산할 때까지 계속됐어
 
 [Outro]
 문을 나서며 알림을 켜도
@@ -86,7 +86,7 @@ No rush, 천천히 말해
 - Language: IDOL-KR
 - Idol Style: Urban R&B / Vocal Pop
 - Hook Language: KR
-- English Placement: Pre-Chorus의 짧은 영어 1회와 최소 Ad-lib 수준
+- English Placement: Pre-Chorus의 짧은 영어 1회, 그 외 한국어 중심
 - Structure: I-V-PC-C-R-V-C-PV-FC-O
 - Target duration: 3:15~3:35
 
