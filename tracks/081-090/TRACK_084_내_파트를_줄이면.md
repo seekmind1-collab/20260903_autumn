@@ -11,7 +11,7 @@
 ### Style Prompt
 
 ```text
-Gospel Pop, 104 BPM, warm rich mid-high female vocal with hopeful soaring expression and controlled belting only in the chorus, piano, Hammond-style organ, rounded bass, live drums, restrained handclaps and light ensemble responses, moderate uplifting energy, verses built around space and listening before a fuller chorus and a stripped bridge that rebuilds into the final chorus, warm live-room mix with clear lead vocal, limited backing layers and natural dynamics, no artist names, no song titles, no trademarks
+Gospel Pop, 104 BPM, warm rich mid-high female vocal with hopeful soaring expression and controlled belting only in the chorus, piano, warm tonewheel organ, rounded bass, live drums, restrained handclaps and light ensemble responses, moderate uplifting energy, verses built around space and listening before a fuller chorus and a stripped bridge that rebuilds into the final chorus, warm live-room mix with clear lead vocal, limited backing layers and natural dynamics, no artist names, no song titles, no trademarks
 ```
 
 ### Structured Lyrics
