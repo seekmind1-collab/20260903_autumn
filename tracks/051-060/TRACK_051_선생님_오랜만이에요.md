@@ -34,8 +34,7 @@ Folk Soul, 98 BPM, warm rich male vocal in a low-mid register with tender storyt
 그 한마디가 먼저 나왔어
 
 [Chorus]
-선생님, 오랜만이에요
-목소리는 그대로네요
+선생님은 목소리가 그대로네요
 칠판 앞에서 듣던 그 말투가
 사람들 사이로 또 들렸어요
 선생님, 오랜만이에요
@@ -49,8 +48,7 @@ Folk Soul, 98 BPM, warm rich male vocal in a low-mid register with tender storyt
 선생님이 먼저 꺼내셨어
 
 [Chorus]
-선생님, 오랜만이에요
-목소리는 그대로네요
+선생님은 목소리가 그대로네요
 내가 잊고 있던 작은 장면을
 선생님은 아직 기억하네요
 선생님, 오랜만이에요
@@ -73,7 +71,7 @@ Folk Soul, 98 BPM, warm rich male vocal in a low-mid register with tender storyt
 - Emotional direction: 낯섦 → 감사
 - Time / season: 늦가을 지역 행사 낮 시간
 - Hook first line: 선생님은 목소리가 그대로네요
-- Hook rhythm / repetition method: 직접 호칭으로 Chorus를 열고 구체적인 목소리 기억을 중심으로 반복, 마지막에는 화자의 역할 변화로 마무리
+- Hook rhythm / repetition method: 구체적인 목소리 기억으로 Chorus를 열고 직접 호칭을 끝에 배치해 회상과 현재 인사를 연결
 - Primary Genre: Folk Soul
 - Secondary Genre: N/A
 - BPM: 98
@@ -87,7 +85,7 @@ Folk Soul, 98 BPM, warm rich male vocal in a low-mid register with tender storyt
 - Difference from previous track: Track 050의 자기 경계 선언형 Soft Rock과 달리 타인과의 재회에서 구체적 기억이 살아나는 느긋한 Folk Soul
 - Difference from next track: Track 052의 전 연인 Duet과 달리 비로맨틱한 세대 관계를 한 명의 회상·대화형 시점으로 유지
 - Avoided recent title words: 오늘, movie, timing, playlist, 이름
-- Avoided recent Hook pattern: 행동 선언형 반복 대신 직접 호칭과 감각 기억을 결합한 회상형 Chorus 사용
+- Avoided recent Hook pattern: 행동 선언형 반복 대신 감각 기억으로 Chorus를 열고 직접 호칭으로 닫는 회상형 구조 사용
 - Avoided AI clichés: 성장, 운명, 빛, 꿈, 세상 같은 추상어로 감사를 대신하지 않음
 
 ## Text QA
