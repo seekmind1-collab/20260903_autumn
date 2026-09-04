@@ -11,7 +11,7 @@
 ### Style Prompt
 
 ```text
-Alternative Pop at 102 BPM, contrasting duet with a gentle husky low-mid voice carrying melancholic restraint and a velvety grounded mid voice with wistful phrasing, muted electric guitar, soft piano, warm bass, brushed drums and subtle ambient texture, reflective late-night energy, separate verses opening into a shared final chorus, spacious natural mix with restrained dynamics
+Reflective late-night Alternative Pop, 102 BPM, opening with muted electric guitar and soft piano over warm bass, brushed drums and subtle ambient texture; a duet contrasts a gentle husky low-mid voice with melancholic restraint against a velvety grounded mid voice with wistful phrasing, separate verses gradually joining in a shared final chorus, spacious natural mix with restrained dynamics
 ```
 
 ### Structured Lyrics
