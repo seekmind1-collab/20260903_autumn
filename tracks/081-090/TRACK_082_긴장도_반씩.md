@@ -38,7 +38,7 @@ Bossa Pop, 108 BPM, equal duet with a silky relaxed mid-high voice and a warm co
 
 [Verse 2 - Voice B]
 돌아오는 길에 하나씩 꺼내 봤어
-누가 먼저 물을 따라 놓쳤는지
+누가 먼저 잔을 잘못 건넸는지
 너는 내 어색한 존댓말을 흉내 내고
 나는 네 굳은 어깨를 따라 했어
 
@@ -55,7 +55,7 @@ Bossa Pop, 108 BPM, equal duet with a silky relaxed mid-high voice and a warm co
 [Duet Chorus]
 다음 인사는 조금 덜 떨리겠지
 그래도 또 어색하면 어때
-가족이 서로 이어지는 그 사이를
+서로 다른 가족 사이 한가운데서
 우린 같은 편으로 지나가면 돼
 
 [Final Chorus - Duet]
