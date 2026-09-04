@@ -55,7 +55,7 @@ Vocal Pop, 94 BPM, velvety soft male vocal in a mid register with restrained vul
 
 [Final Chorus]
 지우는 대신 오늘은 눌러볼게
-오랜만이야, 잘 지냈어부터
+오랜만이야, 잘 지냈어 하고
 긴 시간만큼 어색할 수 있어도
 한 번쯤 먼저 안부를 건네볼게
 
