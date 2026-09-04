@@ -249,15 +249,13 @@ Duet의 중복은 성별만이 아니라 `Voice Contrast + Role Configuration`�
 9. 한 프로젝트 안에서 다양한 조합을 만들되, 한 곡의 Style Prompt에는 핵심 캐릭터만 간결하게 남깁니다.
 10. 실존 가수의 목소리를 목표로 삼지 않고 음향적 특성으로 설명합니다.
 
-## 9. MASTER BOARD 운영
+## 9. MASTER BOARD 및 확정 배치 운영
 
 현재 작성된 MASTER BOARD의 `Vocal: Female / Male / Duet` 값은 그대로 유효합니다.
 
-이 지침을 추가했다고 해서 기존 Track이 미완성 상태가 되지 않습니다.
+Track 001~100의 Vocal Character 최종 재검토와 배치는 완료되었으며, 확정 단일 기준은 `VOCAL_CHARACTER_ASSIGNMENTS.md`입니다.
 
-Track 001~100 MASTER BOARD 기획이 끝난 뒤 별도 보컬 재검토 단계에서 전체 보컬 캐릭터를 일괄 조정합니다.
-
-그 단계에서는 필요에 따라 다음 정보를 별도 배치표 또는 MASTER BOARD 확장 필드로 기록할 수 있습니다.
+최종 배치표는 다음 정보를 관리합니다.
 
 - Core Timbre
 - Weight
@@ -267,11 +265,13 @@ Track 001~100 MASTER BOARD 기획이 끝난 뒤 별도 보컬 재검토 단계�
 - Technique
 - Duet Role
 
+Vocal Character 배정 완료는 MASTER BOARD의 Planning 승인과 별개입니다. 사용자 별도 승인 전 Track 상태는 `PLANNED`를 유지합니다.
+
 기존 `Vocal` 자체를 Female → Male, Male → Duet처럼 바꿀 필요가 있는 경우에는 일반 Character 조정과 구분하여 별도 변경 제안으로 처리합니다.
 
 ## 10. 실제 작사 / Style Prompt 단계
 
-한 곡의 실제 작사를 시작할 때는 대상 Track의 확정된 Vocal Character를 읽고 Style Prompt에 필요한 요소만 자연어로 확장합니다.
+한 곡의 실제 작사를 시작할 때는 대상 Track의 `VOCAL_CHARACTER_ASSIGNMENTS.md` 행을 읽고 Style Prompt에 필요한 요소만 자연어로 확장합니다.
 
 권장 순서:
 
@@ -287,11 +287,16 @@ Track 001~100 MASTER BOARD 기획이 끝난 뒤 별도 보컬 재검토 단계�
 
 목표는 많은 수식어가 아니라 서로 구별되는 보컬 캐릭터입니다.
 
-## 11. 적용 시점
+실제 제작 시에는 대상 Track뿐 아니라 앞뒤 Track의 Character도 확인해 연속 피로와 유사 Character 반복을 다시 검토합니다.
 
-- 현재: 이 문서를 프로젝트 보컬 설계 기준으로 추가
-- MASTER BOARD 001~100 완성 전: 기존 Vocal Type 유지, 새 Character 필드 강제하지 않음
-- MASTER BOARD 001~100 완성 후: 전체 Vocal Character 재검토 및 배치
-- Vocal Character 확정 후: `1곡 = 1개 독립 대화 세션` 방식으로 실제 작사 및 Style Prompt 제작
+## 11. 현재 적용 상태
 
-이 문서는 2026 AUTUMN 프로젝트의 프로젝트별 보컬 지침이며, 검증 전에는 `suno-music-master`의 공통 규칙을 대체하지 않습니다.
+- MASTER BOARD 001~100: 기획 완료
+- 기존 Vocal Type: Female 40 / Male 40 / Duet 20 유지
+- Vocal Character 001~100: 최종 배정 완료
+- 확정 배치 파일: `VOCAL_CHARACTER_ASSIGNMENTS.md`
+- Track Status: 전곡 `PLANNED` 유지
+- 실제 가사 / 완성 Style Prompt: 미작성
+- 다음 단계: 사용자 별도 Planning 승인 후 `1곡 = 1개 독립 대화 세션` 방식으로 실제 제작
+
+이 문서는 2026 AUTUMN 프로젝트의 프로젝트별 보컬 지침이며, `suno-music-master`의 공통 규칙보다 우선하지 않습니다.
