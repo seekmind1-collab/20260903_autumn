@@ -13,6 +13,14 @@
 | 03 | 061~090 | `MASTER_BOARD_061_090.md` | PLANNED | NOT_STARTED |
 | 04 | 091~100 | `MASTER_BOARD_091_100.md` | PLANNED | NOT_STARTED |
 
+## Vocal Character 상태
+
+- Track 001~100 Vocal Type: Female 40 / Male 40 / Duet 20
+- Track 001~100 Vocal Character 최종 배정: 완료
+- 단일 기준 파일: `VOCAL_CHARACTER_ASSIGNMENTS.md`
+- 설계 기준: `VOCAL_CHARACTER_GUIDE.md`
+- Vocal Character 배정 완료는 `PLANNING_APPROVED`를 의미하지 않습니다.
+
 ## 운영 규칙
 
 1. 새로운 기획 대화 세션에서는 한 번에 최대 30곡만 설계합니다.
@@ -24,6 +32,7 @@
 7. 기획이 완료되면 해당 MASTER BOARD 파일을 추가하고 `DUPLICATION_INDEX.md`에 Track 정보를 누적합니다.
 8. 사용자가 승인하기 전 Track 상태는 `PLANNED`로 유지합니다.
 9. 실제 작사는 이후 반드시 `1곡 = 1개 독립 대화 세션`으로 진행합니다.
+10. 실제 작사 세션에서는 대상 Track의 `VOCAL_CHARACTER_ASSIGNMENTS.md` 행도 함께 확인합니다.
 
 ## 현재 상태
 
@@ -33,9 +42,10 @@
 - Batch 04: `PLANNED / NOT_STARTED`
 - 사용자 Decision Gate 승인: 대기 중
 - 전체 MASTER BOARD 기획: 완료
+- 전체 Vocal Character 배정: 완료
 
 ## 다음 작업
 
-MASTER BOARD 기획은 Track 001~100까지 완료되었습니다.
+MASTER BOARD 기획과 Vocal Character 배정은 Track 001~100까지 완료되었습니다.
 
 다음 단계는 사용자 별도 승인 후 개별 Track을 `PLANNING_APPROVED`로 변경하고, `ONE_TRACK_SESSION_GUIDE.md`에 따라 반드시 `1곡 = 1개 독립 대화 세션`으로 실제 가사와 Style Prompt를 제작하는 것입니다.
