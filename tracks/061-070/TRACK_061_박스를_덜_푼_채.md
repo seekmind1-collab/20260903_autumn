@@ -21,7 +21,7 @@ Sophisti-Pop, 108 BPM, silky female vocal with a grounded mid register and relax
 
 [Verse 1]
 바닥에 남은 테이프 자국
-박스 위에 컵 하나
+박스 위에 컵 하나만
 현관 번호를 다시 눌러
 낯선 소리에 웃었어
 
@@ -41,17 +41,17 @@ Sophisti-Pop, 108 BPM, silky female vocal with a grounded mid register and relax
 정리 안 된 방 한가운데
 내일 아침을 맞을 거야
 
-[Instrumental Break]
+[Instrumental Break - Electric Piano and Muted Guitar]
 
 [Chorus]
 아직 반은 상자 속인데
 여기서 잠들 거야
-다 채워야 내 것이 되는 건
-아니라는 걸 알겠어
+물 한 잔 마시고 누워 보니
+내 주소가 좀 실감 나
 
 [Final Chorus]
 아직 반은 상자 속인데
-이 방이 덜 낯설어
+이 방이 조금 덜 낯설어
 남겨 둔 짐은 그대로 두고
 오늘은 편히 잘 거야
 
