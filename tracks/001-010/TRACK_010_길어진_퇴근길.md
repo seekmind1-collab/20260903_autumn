@@ -41,7 +41,7 @@ Folk Pop, 98 BPM, earthy gentle male vocal in a low-mid register with calm story
 오늘 길은 왜 조금 더 길지
 익숙한 골목도 낯설게 늘어나
 답 못 한 생각은 내일로 미루고
-집까지 남은 길만 세어 보기로 해
+집까지 남은 신호만 세어 보기로 해
 
 [Bridge]
 계절이 바뀐 건 달력보다 먼저
@@ -53,7 +53,7 @@ Folk Pop, 98 BPM, earthy gentle male vocal in a low-mid register with calm story
 오늘 길은 조금 더 길어도
 서두를 이유는 이제 없으니까
 현관 앞에 닿을 때쯤 숨을 고르면
-오늘 일은 오늘만큼 내려놓을게
+오늘 일은 여기까지 두고 갈게
 
 [Outro]
 신발 끈을 풀고 문을 닫으면
