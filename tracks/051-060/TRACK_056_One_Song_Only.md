@@ -29,7 +29,7 @@ I said okay, just for the chorus
 
 [Pre-Chorus - Voice A]
 박자를 놓쳐도 괜찮았어
-You laughed before I could
+You laughed before I could apologize
 
 [Chorus - Equal Duet]
 One song only, that was the deal
