@@ -48,8 +48,8 @@ Dreamy Pop, Alternative K-Pop, 110 BPM, silky light female vocal with a high flo
 [Chorus]
 차가운 아침이 먼저 문을 열어
 익숙한 거리도 다시 깨워
-목도린 아직 이르다 웃으면서
-한 걸음 먼저 계절을 건너
+목 끝에 닿는 바람을 느끼며
+평소보다 조금 가볍게 웃어
 
 [Instrumental Break - Guitar and Synth]
 
