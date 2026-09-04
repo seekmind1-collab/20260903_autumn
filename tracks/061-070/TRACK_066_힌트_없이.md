@@ -21,7 +21,7 @@ Nu-Disco Pop, 120 BPM, silky full female vocal in a mid-high register with confi
 문 하나를 두고 멈춰 섰어
 
 [Verse 1]
-벽에 적힌 숫잘 다시 보고
+벽에 적힌 숫자를 다시 보고
 책상 밑까지 다 뒤졌지만
 누구도 먼저 답을 재촉 안 해
 생각난 조각부터 꺼내 놓아
