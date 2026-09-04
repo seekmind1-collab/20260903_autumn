@@ -27,10 +27,10 @@ Alternative R&B, 90 BPM, velvety male vocal with understated wistful delivery, g
 아직은 조금 이른 것 같아
 
 [Chorus]
-목도리는 아직 꺼내지 않을래
-주머니에 두 손이면 괜찮아
+목도리는 아직, 주머니에 손만 넣어
 낮이 짧아진 건 좀 아쉽지만
-오늘 집까지는 그냥 걸어갈래
+찬바람쯤은 그냥 견딜 만해
+오늘 집까지는 천천히 걸어
 
 [Verse 2]
 해 진 골목은 빨리 식는데
@@ -43,10 +43,10 @@ Alternative R&B, 90 BPM, velvety male vocal with understated wistful delivery, g
 오늘은 어깨부터 움츠러들어
 
 [Chorus]
-목도리는 아직 꺼내지 않을래
-주머니에 두 손이면 괜찮아
-찬 공기가 조금 낯설 뿐이지
-내일쯤이면 덜 어색하겠지
+목도리는 아직, 주머니에 손만 넣어
+아침보다 저녁이 더 차갑지만
+이 공기도 금방 익숙해지겠지
+오늘 집까지는 천천히 걸어
 
 [Bridge]
 추운 줄 알면서 버텨 보는 건
