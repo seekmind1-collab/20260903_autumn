@@ -45,7 +45,7 @@ Strike or smile, 점수보다 반응이 더 커
 
 [Post-Chorus]
 Strike or smile
-Louder on the miss
+Louder when we miss
 Strike or smile
 Next frame, our turn
 
@@ -91,7 +91,7 @@ Strike or smile, 점수보다 반응이 더 커
 - Hook first line: Strike or smile, 점수보다 반응이 더 커
 - Hook rhythm / repetition method: 영어 Title과 한국어 대비 문장을 한 호흡의 chant Hook으로 사용하고, 각 Chorus 후반에서 점수보다 친구들의 반응이 커지는 장면을 다르게 제시
 - Primary Genre: Dance Pop
-- Secondary Genre: Minimal Hip-Hop / Rhythm Pop accent
+- Secondary Genre: Minimal Hip-Hop
 - BPM: 122
 - Vocal: Female — crisp / full / mid-high / punchy / playful
 - Language: IDOL-MIX
