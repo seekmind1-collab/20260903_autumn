@@ -2,16 +2,20 @@
 
 ## 목적
 
-이 문서는 100곡 규모 가을 프로젝트의 MASTER BOARD 범위와 상태를 관리합니다.
+이 문서는 100곡 규모 가을 프로젝트의 MASTER BOARD 범위와 현재 제작 단계의 상태를 관리합니다.
 
 ## 보드 구성
 
-| Batch | Tracks | File | Planning Status | Lyrics Status |
+| Batch | Tracks | File | Planning Snapshot | Production Gate |
 |---|---:|---|---|---|
-| 01 | 001~030 | `MASTER_BOARD.md` | PLANNED | NOT_STARTED |
-| 02 | 031~060 | `MASTER_BOARD_031_060.md` | PLANNED | NOT_STARTED |
-| 03 | 061~090 | `MASTER_BOARD_061_090.md` | PLANNED | NOT_STARTED |
-| 04 | 091~100 | `MASTER_BOARD_091_100.md` | PLANNED | NOT_STARTED |
+| 01 | 001~030 | `MASTER_BOARD.md` | PLANNED snapshot | APPROVED_FOR_PRODUCTION |
+| 02 | 031~060 | `MASTER_BOARD_031_060.md` | PLANNED snapshot | APPROVED_FOR_PRODUCTION |
+| 03 | 061~090 | `MASTER_BOARD_061_090.md` | PLANNED snapshot | APPROVED_FOR_PRODUCTION |
+| 04 | 091~100 | `MASTER_BOARD_091_100.md` | PLANNED snapshot | APPROVED_FOR_PRODUCTION |
+
+기존 MASTER BOARD의 `PLANNED` 값은 각 기획 세션 종료 당시의 스냅샷으로 유지합니다.
+
+2026-09-04 사용자 결정으로 Track 001~100은 실제 제작 단계로 진입했으며, 현재 제작 가능 여부는 `PRODUCTION_QUEUE.md`의 `APPROVED_FOR_PRODUCTION` 값을 기준으로 판단합니다.
 
 ## Vocal Character 상태
 
@@ -19,33 +23,49 @@
 - Track 001~100 Vocal Character 최종 배정: 완료
 - 단일 기준 파일: `VOCAL_CHARACTER_ASSIGNMENTS.md`
 - 설계 기준: `VOCAL_CHARACTER_GUIDE.md`
-- Vocal Character 배정 완료는 `PLANNING_APPROVED`를 의미하지 않습니다.
 
-## 운영 규칙
+## 실제 제작 방식
 
-1. 새로운 기획 대화 세션에서는 한 번에 최대 30곡만 설계합니다.
-2. 새 세션 시작 시 반드시 `suno-music-master`의 공통 규칙을 먼저 확인합니다.
-3. 그다음 이 저장소의 `MASTER_BOARD_INDEX.md`, 기존 MASTER BOARD들, `DUPLICATION_INDEX.md`를 확인합니다.
-4. 새 보드는 기존 전체 가사를 읽지 않고 기존 보드와 중복 인덱스를 기준으로 차별화합니다.
-5. 새로운 곡의 제목·상황·관계·감정·Hook·장르·BPM·보컬·언어·구조를 기획 세션에서 설계할 수 있습니다.
-6. 실제 가사는 기획 세션에서 작성하지 않습니다.
-7. 기획이 완료되면 해당 MASTER BOARD 파일을 추가하고 `DUPLICATION_INDEX.md`에 Track 정보를 누적합니다.
-8. 사용자가 승인하기 전 Track 상태는 `PLANNED`로 유지합니다.
-9. 실제 작사는 이후 반드시 `1곡 = 1개 독립 대화 세션`으로 진행합니다.
-10. 실제 작사 세션에서는 대상 Track의 `VOCAL_CHARACTER_ASSIGNMENTS.md` 행도 함께 확인합니다.
+- 실제 제작 단위: `1개 대화 세션 = 최대 3곡`
+- 고정 Batch 순서: `PRODUCTION_QUEUE.md`
+- 병렬 세션 운영: `PRODUCTION_SESSION_GUIDE.md`
+- 동시 작업 선점: `production_claims/CLAIM_XXX_XXX.md`
+- 사용자가 매 세션마다 Track 번호를 직접 지정하지 않음
+
+## Production Batch 구성
+
+- 001~003
+- 004~006
+- 007~009
+- 010~012
+- ...
+- 097~099
+- 100
+
+총 34개 Production Batch입니다.
+
+## 병렬 실행 원칙
+
+1. 각 세션은 `PRODUCTION_QUEUE.md`를 앞에서부터 확인합니다.
+2. 다른 세션의 `IN_PROGRESS` 또는 `COMPLETE` CLAIM이 있는 Batch는 건너뜁니다.
+3. CLAIM 파일이 없는 가장 앞 Batch에 대해 새 CLAIM 파일 생성을 실제로 시도합니다.
+4. 생성 성공한 세션만 해당 Batch를 작업합니다.
+5. 생성 충돌 시 사용자에게 묻지 않고 다음 Batch로 이동합니다.
+6. CLAIM 성공 전에는 실제 가사와 완성 Style Prompt를 작성하지 않습니다.
+7. 일반 Production Session은 공유 MASTER BOARD와 DUPLICATION_INDEX를 수정하지 않습니다.
+8. Batch 간 실제 완성 가사 중복 QA와 공통 인덱스 갱신은 별도 통합 세션에서 수행합니다.
 
 ## 현재 상태
 
-- 기획 완료 범위: Track 001~100
-- 실제 가사 작성 범위: 없음
-- Track 001~100 상태: 전곡 `PLANNED`
-- Batch 04: `PLANNED / NOT_STARTED`
-- 사용자 Decision Gate 승인: 대기 중
-- 전체 MASTER BOARD 기획: 완료
-- 전체 Vocal Character 배정: 완료
+- MASTER BOARD 기획 완료 범위: Track 001~100
+- Vocal Character 배정 완료 범위: Track 001~100
+- Production Gate: Track 001~100 승인 완료
+- 실제 가사 작성: 시작 전
+- Production Queue: 준비 완료
+- Parallel Claim System: 준비 완료
 
 ## 다음 작업
 
-MASTER BOARD 기획과 Vocal Character 배정은 Track 001~100까지 완료되었습니다.
+동일한 Production Session 프롬프트를 여러 대화 세션에 동시에 실행할 수 있습니다.
 
-다음 단계는 사용자 별도 승인 후 개별 Track을 `PLANNING_APPROVED`로 변경하고, `ONE_TRACK_SESSION_GUIDE.md`에 따라 반드시 `1곡 = 1개 독립 대화 세션`으로 실제 가사와 Style Prompt를 제작하는 것입니다.
+각 세션은 `PRODUCTION_SESSION_GUIDE.md`와 `production_claims/README.md`에 따라 서로 다른 Production Batch를 자동 선점하고 최대 3곡을 제작합니다.
