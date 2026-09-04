@@ -55,7 +55,7 @@ Dream Pop, 102 BPM, contrasting duet with an airy floating light voice and an ea
 흙 묻은 손으로 악수하긴
 좀 웃기지, 또 먼저 말했어
 손등만 들어 가볍게 인사하고
-다음 주에 봐요가 길게 남아
+다음 주에 봐요, 그 말이 길게 남아
 
 [Outro - Alternating Vocals]
 먼저 갈게요
