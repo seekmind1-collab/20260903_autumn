@@ -53,17 +53,10 @@ Acoustic Pop, 96 BPM, warm soft female vocal in a low-mid register, tender close
 깨면 또 서툴겠지만
 지금은 그냥 재워 둘래
 
-[Final Chorus]
-낯선 잠버릇 하나
-오늘 처음 알게 된 표정
-자는 모습 보고 나니까
-누굴 닮았는지 알겠더라
-긴장이 늦게야 풀려서
-소파에 기대 웃었어
-
 [Outro]
 불을 하나만 남겨 두고
-문틈을 조금 열어 둔다
+소파에 기대 숨을 고른다
+문틈은 조금 열어 둔다
 ```
 
 ## Planning
