@@ -11,7 +11,7 @@ Market Sunday
 ### Style Prompt
 
 ```text
-Groove Pop at 116 BPM, warm crisp male vocal with grounded mid-register tone and playful rhythmic phrasing, clean funk guitar, electric piano, elastic bass, hand percussion and tight live drums, easygoing daytime energy, verse-to-chorus groove lift with a brief instrumental pocket, punchy but natural mix with clear vocal articulation
+116 BPM Groove Pop built around clean funk guitar, electric piano, elastic bass, hand percussion and tight live drums; warm crisp male vocal in a grounded mid register with playful rhythmic phrasing, easygoing daytime energy, a clear groove lift into the chorus and a brief instrumental pocket, punchy natural mix with crisp articulation
 ```
 
 ### Structured Lyrics
