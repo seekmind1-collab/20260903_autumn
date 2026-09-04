@@ -33,7 +33,7 @@ Britpop, 122 BPM, light raspy male vocal in a mid-high register with punchy hope
 이건 평소엔 안 고르시죠?
 그 한마디가 자꾸 남았어
 매번 같은 칸만 보던 나에게
-오늘은 다른 쪽을 펼쳐 보게 했어
+오늘은 다른 책을 펼쳐 보게 했어
 
 [Verse 2]
 첫 장만 읽고 덮을 줄 알았는데
@@ -46,7 +46,7 @@ Britpop, 122 BPM, light raspy male vocal in a mid-high register with punchy hope
 [Chorus]
 이건 평소엔 안 고르시죠?
 그 한마디가 아직 남았어
-늘 내가 고르던 방식 밖에도
+늘 내가 고르던 분야 밖에도
 괜찮은 한 권이 꽤 많을 것 같아
 
 [Refrain]
