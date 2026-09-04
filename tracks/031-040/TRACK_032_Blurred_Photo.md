@@ -18,37 +18,29 @@ Jangle Pop, 114 BPM, clear light female vocal with playful rhythmic delivery, ch
 
 ```text
 [Intro]
-한 장씩 넘겨 보다가
-다 같이 손이 멈췄어
+사진을 넘기다 다 같이 멈췄어
 
 [Verse 1]
-눈 감은 애가 하나 있고
+한 명은 눈을 감고 있고
 누군 고개를 돌렸는데
-제일 잘 나온 사진보다
-이상하게 이게 더 웃겨
-확대하면 더 흔들리고
-그래서 더 우리 같아
+제일 잘 나온 컷보다
+이게 자꾸 더 웃겨
 
 [Chorus]
 Blurred photo, 이걸로 하자
-완벽하게 선명하지 않아도
-웃던 표정은 다 남아 있어
+선명하지 않아도 괜찮아
+같이 웃던 표정은 남아 있어
 Blurred photo, keep this one
-정리 안 된 그 장면까지
-오늘의 우리라서 좋아
 
 [Post-Chorus]
-Keep this one, keep this one
-조금 흔들려도 좋아
+Keep this one, 조금 흔들려도
 Blurred photo, keep this one
 
 [Verse 2]
-누가 먼저 움직였는지
-사진만 봐선 모르겠고
-뒤에 있던 두 사람까지
-같은 타이밍에 웃고 있어
-잘 나온 컷을 고르던 말은
-어느새 다 사라졌어
+확대하면 더 흐려지는데
+뒤쪽까지 전부 웃고 있어
+잘 나온 사진을 고르던 말도
+어느새 멈춰 버렸어
 
 [Pre-Chorus]
 선명한 건 따로 있지만
@@ -56,15 +48,12 @@ Blurred photo, keep this one
 
 [Chorus]
 Blurred photo, 이걸로 하자
-완벽하게 선명하지 않아도
-웃던 표정은 다 남아 있어
+선명하지 않아도 괜찮아
+같이 웃던 표정은 남아 있어
 Blurred photo, keep this one
-정리 안 된 그 장면까지
-오늘의 우리라서 좋아
 
 [Post-Chorus]
-Keep this one, keep this one
-No need to fix it tonight
+Keep this one, no need to fix it
 Blurred photo, keep this one
 
 [Final Chorus]
@@ -72,12 +61,9 @@ Blurred photo, 이걸로 남겨
 누가 제일 잘 나왔는지보다
 같이 웃은 게 먼저 보여
 Blurred photo, that's our shot
-조금 흔들린 그 한 장이
-제일 자연스러운 우리야
 
 [Outro]
-다시 보면 또 웃겠지
-이 사진부터 열어 보며
+다시 보면 이 장면부터 웃겠지
 ```
 
 ## Planning
@@ -90,7 +76,7 @@ Blurred photo, that's our shot
 - Emotional direction: 완벽주의 → 친근한 만족
 - Time / season: 가을 모임을 마친 뒤
 - Hook first line: Blurred photo, 이걸로 하자
-- Hook rhythm / repetition method: Title pickup + 한국어 결론, Post-Chorus에서 짧은 영어 response 반복
+- Hook rhythm / repetition method: Title pickup + 한국어 선택 문장, Post-Chorus에서 짧은 영어 response 반복
 - Primary Genre: Jangle Pop
 - Secondary Genre: N/A
 - BPM: 114
